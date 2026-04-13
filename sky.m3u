@@ -1,0 +1,926 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://www.open-epg.com/files/mexico2.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
+
+
+#EXTINF:-1 tvg-id="I432.101096.schedulesdirect.org" tvg-name="IMAGEN TELEVISIÓN" tvg-chno="3" tvg-logo="https://www.izzigo.tv/images/repository/499/7302499-LOGO-m.png" group-title="TV Nacional", IMAGEN TELEVISIÓN
+#EXTVLCOPT:network-caching=1000
+https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
+
+#EXTINF:-1 tvg-id="NUEVE.mx" tvg-name="NU9VE" tvg-chno="9" tvg-logo="https://www.izzigo.tv/images/repository/230/8274230-LOGO-m.png" group-title="TV Nacional", NU9VE ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://45.189.151.7:8000/play/a05u/index.m3u8
+
+#EXTINF:-1 tvg-id="I140.15178.schedulesdirect.org" tvg-name="canal once" tvg-chno="11" tvg-logo="https://www.izzigo.tv/images/repository/246/9212246-LOGO-m.png" group-title="TV Nacional", canal once
+#EXTVLCOPT:network-caching=1000
+https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8
+
+#EXTINF:-1 tvg-id="I124.90518.schedulesdirect.org" tvg-name="Canal 14" tvg-chno="14" tvg-logo="https://i.imgur.com/6C7mP5e.png" group-title="TV Nacional", Canal 14
+#EXTVLCOPT:network-caching=1000
+https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
+
+#EXTINF:-1 tvg-id="I726.114312.schedulesdirect.org" tvg-name="TV.UNAM" tvg-chno="20" tvg-logo="https://www.izzigo.tv/images/repository/491/7022491-LOGO-m.png" group-title="TV Nacional", TV.UNAM
+#EXTVLCOPT:network-caching=1000
+https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/playlist.m3u8
+
+#EXTINF:-1 tvg-id="I267.102415.schedulesdirect.org" tvg-name="CANAL 22" tvg-chno="22" tvg-logo="https://www.izzigo.tv/images/repository/050/257050-LOGO-m.png" group-title="TV Nacional", CANAL 22
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/494111.m3u8
+
+#EXTINF:-1 tvg-id="ADN 40.mx" tvg-name="adn NOTICIAS" tvg-chno="40" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1254793-8c.png" group-title="TV Nacional", adn NOTICIAS
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-id="I134.20548.schedulesdirect.org" tvg-name="Canal del Congreso" tvg-chno="45" tvg-logo="https://i.imgur.com/JG9g29W.png" group-title="TV Nacional", Canal del Congreso
+#EXTVLCOPT:network-caching=1000
+https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834_adaptive.m3u8
+
+#EXTINF:-1 tvg-id="I575.50367.schedulesdirect.org" tvg-name="sky one" tvg-chno="68" tvg-logo="https://www.izzigo.tv/images/repository/676/16482676-LOGO-m.png" group-title="TV Nacional", sky one
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/492790.ts
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="las estrellas -1" tvg-chno="100" tvg-logo="https://www.izzigo.tv/images/repository/248/9281248-LOGO-m.png" group-title="TV Nacional", las estrellas -2
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/90201.m3u8
+
+#EXTINF:-1 tvg-id="I99.46607.schedulesdirect.org" tvg-name="azteca uno" tvg-chno="101" tvg-logo="https://www.izzigo.tv/images/repository/724/16975724-LOGO-m.png" group-title="TV Nacional", azteca uno
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
+#EXTINF:-1 tvg-id="I449.16461.schedulesdirect.org" tvg-name="las estrellas" tvg-chno="102" tvg-logo="https://www.izzigo.tv/images/repository/248/9281248-LOGO-m.png" group-title="TV Nacional", las estrellas
+#EXTVLCOPT:network-caching=1000
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-id="FORO TV.mx" tvg-name="N+FORO" tvg-chno="104" tvg-logo="https://www.izzigo.tv/images/repository/805/16905805-LOGO-m.png" group-title="TV Nacional", N+FORO
+#EXTVLCOPT:network-caching=1000
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
+
+#EXTINF:-1 tvg-id="CANAL 5.mx" tvg-name="Canal 5" tvg-chno="105" tvg-logo="https://www.izzigo.tv/images/repository/275/17592275-LOGO-m.png" group-title="TV Nacional", Canal 5
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/494059.ts
+
+#EXTINF:-1 tvg-id="I270.102406.schedulesdirect.org" tvg-name="azteca 7" tvg-chno="107" tvg-logo="https://www.izzigo.tv/images/repository/878/7809878-LOGO-m.png" group-title="TV Nacional", azteca 7
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+
+#EXTINF:-1 tvg-id="I723.28440.schedulesdirect.org" tvg-name="MEXIQUENSE TELEVISIÓN" tvg-chno="153" tvg-logo="https://www.izzigo.tv/images/repository/919/12018919-LOGO-m.png" group-title="TV Nacional", MEXIQUENSE TELEVISIÓN
+#EXTVLCOPT:network-caching=1000
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+
+#EXTINF:-1 tvg-id="I473.61719.schedulesdirect.org" tvg-name="MILENIO TELEVISIÓN" tvg-chno="156" tvg-logo="https://www.izzigo.tv/images/repository/120/9250120-LOGO-m.png" group-title="Noticias", MILENIO TELEVISIÓN
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+
+#EXTINF:-1 tvg-id="I685.34344.schedulesdirect.org" tvg-name="TeleFórmula" tvg-chno="157" tvg-logo="https://www.izzigo.tv/images/repository/353/16652353-LOGO-m.png" group-title="Noticias", TeleFórmula
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+
+#EXTINF:-1 tvg-id="I277.87311.schedulesdirect.org" tvg-name="EL FINANCIERO Bloomberg TV" tvg-chno="150" tvg-logo="https://www.izzigo.tv/images/repository/305/8014305-LOGO-m.png" group-title="Noticias", EL FINANCIERO Bloomberg TV
+#EXTVLCOPT:network-caching=1000
+http://45.189.151.7:8000/play/a06k/index.m3u8
+
+#EXTINF:-1 tvg-id="I355.10139.schedulesdirect.org" tvg-name="CNBC" tvg-chno="170" tvg-logo="https://www.izzigo.tv/images/repository/159/16975159-LOGO-m.png" group-title="Noticias", CNBC
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/334738.m3u8
+
+#EXTINF:-1 tvg-id="I192.27773.schedulesdirect.org" tvg-name="CNN EN ESPAÑOL" tvg-chno="172" tvg-logo="https://www.izzigo.tv/images/repository/978/256978-LOGO-m.png" group-title="Noticias", CNN EN ESPAÑOL
+#EXTVLCOPT:network-caching=1000
+http://45.189.151.7:8000/play/a065/index.m3u8
+
+#EXTINF:-1 tvg-id="I193.58646.schedulesdirect.org" tvg-name="CNN INTERNATIONAL" tvg-chno="174" tvg-logo="https://www.izzigo.tv/images/repository/979/256979-LOGO-m.png" group-title="Noticias", CNN INTERNATIONAL
+#EXTVLCOPT:network-caching=1000
+http://45.171.64.30:6060/play/a054/index.m3u8
+
+#EXTINF:-1 tvg-id="I360.16374.schedulesdirect.org" tvg-name="FOX NEWS" tvg-chno="180" tvg-logo="https://www.izzigo.tv/images/repository/061/257061-LOGO-m.png" group-title="Noticias", FOX NEWS ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="I23.111165.schedulesdirect.org" tvg-name="Al Jazeera" tvg-chno="182" tvg-logo="https://www.izzigo.tv/images/repository/618/7365618-LOGO-m.png" group-title="Noticias", Al Jazeera
+#EXTVLCOPT:network-caching=1000
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="I111.89542.schedulesdirect.org" tvg-name="BBC NEWS" tvg-chno="185" tvg-logo="https://www.izzigo.tv/images/repository/159/13824159-LOGO-m.png" group-title="Noticias", BBC NEWS
+#EXTVLCOPT:network-caching=1000
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-id="I1049.16234.schedulesdirect.org" tvg-name="sky news" tvg-chno="198" tvg-logo="https://i.imgur.com/5gSJduJ.png" group-title="Noticias", sky news
+#EXTVLCOPT:network-caching=1000
+https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/master.m3u8?
+
+#EXTINF:-1 tvg-id="I739.84425.schedulesdirect.org" tvg-name="UNICABLE" tvg-chno="203" tvg-logo="https://www.izzigo.tv/images/repository/468/12154468-LOGO-m.png" group-title="Entretenimiento", UNICABLE
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/500190.ts
+
+#EXTINF:-1 tvg-id="I699.37232.schedulesdirect.org" tvg-name="tlnovelas" tvg-chno="204" tvg-logo="https://www.izzigo.tv/images/repository/240/8526240-LOGO-m.png" group-title="Entretenimiento", tlnovelas
+#EXTVLCOPT:network-caching=1000
+http://181.79.84.66:8000/play/a00s/index.m3u8
+
+#EXTINF:-1 tvg-id="I690.102862.schedulesdirect.org" tvg-name="TELEMUNDO INTERNACIONAL" tvg-chno="205" tvg-logo="https://www.izzigo.tv/images/repository/830/256830-LOGO-m.png" group-title="Entretenimiento", TELEMUNDO INTERNACIONAL
+#EXTVLCOPT:network-caching=1000
+http://45.238.54.67:8000/play/a04k/index.m3u8
+
+#EXTINF:-1 tvg-id="I585.88534.schedulesdirect.org" tvg-name="STAR CHANNEL" tvg-chno="209" tvg-logo="https://www.izzigo.tv/images/repository/609/9845609-LOGO-m.png" group-title="Entretenimiento", STAR CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://45.189.151.7:8000/play/a07h/index.m3u8
+
+#EXTINF:-1 tvg-id="I770.80808.schedulesdirect.org" tvg-name="WARNER TV" tvg-chno="210" tvg-logo="https://www.izzigo.tv/images/repository/726/16975726-LOGO-m.png" group-title="Entretenimiento", WARNER TV
+#EXTVLCOPT:network-caching=1000
+http://45.189.151.7:8000/play/a06z/index.m3u8
+
+#EXTINF:-1 tvg-id="I753.16799.schedulesdirect.org" tvg-name="UNIVERSAL TV" tvg-chno="211" tvg-logo="https://www.izzigo.tv/images/repository/413/8526413-LOGO-m.png" group-title="Entretenimiento", UNIVERSAL TV
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/500184.ts
+
+#EXTINF:-1 tvg-id="I143.88517.schedulesdirect.org" tvg-name="SONY CHANNEL" tvg-chno="212" tvg-logo="https://www.izzigo.tv/images/repository/175/14837175-LOGO-m.png" group-title="Entretenimiento", SONY CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/494732.ts
+
+#EXTINF:-1 tvg-id="COMEDY CENTRAL.mx" tvg-name="COMEDY CENTRAL" tvg-chno="213" tvg-logo="https://www.izzigo.tv/images/repository/415/8526415-LOGO-m.png" group-title="Entretenimiento", COMEDY CENTRAL
+#EXTVLCOPT:network-caching=1000
+http://45.189.151.7:8000/play/a05x/index.m3u8
+
+#EXTINF:-1 tvg-id="I355.46442.schedulesdirect.org" tvg-name="FX" tvg-chno="214" tvg-logo="https://www.izzigo.tv/images/repository/268/17592268-LOGO-m.png" group-title="Entretenimiento", FX
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/494062.ts
+
+#EXTINF:-1 tvg-id="I87.72534.schedulesdirect.org" tvg-name="AXN" tvg-chno="215" tvg-logo="https://www.izzigo.tv/images/repository/106/7671106-LOGO-m.png" group-title="Entretenimiento", AXN
+#EXTVLCOPT:network-caching=1000
+http://45.189.151.7:8000/play/a05h/index.m3u8
+
+#EXTINF:-1 tvg-id="I581.62982.schedulesdirect.org" tvg-name="SPACE" tvg-chno="216" tvg-logo="https://www.izzigo.tv/images/repository/405/16975405-LOGO-m.png" group-title="Entretenimiento", SPACE
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/500191.ts
+
+#EXTINF:-1 tvg-id="I430.25793.schedulesdirect.org" tvg-name="Discovery ID" tvg-chno="217" tvg-logo="https://www.izzigo.tv/images/repository/177/16975177-LOGO-m.png" group-title="Entretenimiento", Discovery ID
+#EXTVLCOPT:network-caching=1000
+http://181.78.17.52:8000/play/a0sg/index.m3u8
+
+#EXTINF:-1 tvg-id="I275.30259.schedulesdirect.org" tvg-name="E!" tvg-chno="218" tvg-logo="https://www.izzigo.tv/images/repository/841/256841-LOGO-m.png" group-title="Entretenimiento", E!
+#EXTVLCOPT:network-caching=1000
+http://45.5.119.43:4000/play/a0gr/index.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="amc SERIES" tvg-chno="219" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1262634-8c.png" group-title="Entretenimiento", amc SERIES
+#EXTVLCOPT:network-caching=1000
+http://38.7.101.90:8000/play/a1p2/index.m3u8
+
+#EXTINF:-1 tvg-id="I17.16496.schedulesdirect.org" tvg-name="[adult swim]" tvg-chno="220" tvg-logo="https://www.izzigo.tv/images/repository/532/14949532-LOGO-m.png" group-title="Entretenimiento", [adult swim]
+#EXTVLCOPT:network-caching=1000
+http://45.189.151.7:8000/play/a06h/index.m3u8
+
+#EXTINF:-1 tvg-id="I216.97928.schedulesdirect.org" tvg-name="Discovery h&h" tvg-chno="221" tvg-logo="https://i.imgur.com/ulEyQwC.png" group-title="Entretenimiento", Discovery h&h ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://45.189.151.7:8000/play/a069/index.m3u8
+
+#EXTINF:-1 tvg-id="I697.107373.schedulesdirect.org" tvg-name="Discovery TLC" tvg-chno="222" tvg-logo="https://www.izzigo.tv/images/repository/844/256844-LOGO-m.png" group-title="Entretenimiento", Discovery TLC
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/335479.m3u8
+
+#EXTINF:-1 tvg-id="AandE MUNDO.mx" tvg-name="A&E" tvg-chno="223" tvg-logo="https://www.izzigo.tv/images/repository/845/256845-LOGO-m.png" group-title="Entretenimiento", A&E
+#EXTVLCOPT:network-caching=1000
+http://181.79.84.66:8000/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-id="I279.45910.schedulesdirect.org" tvg-name="elGourmet" tvg-chno="227" tvg-logo="https://www.izzigo.tv/images/repository/332/14327332-LOGO-m.png" group-title="Entretenimiento", elGourmet
+#EXTVLCOPT:network-caching=1000
+http://45.5.119.43:4000/play/a04v/index.m3u8
+
+#EXTINF:-1 tvg-id="I3.62161.schedulesdirect.org" tvg-name="¡HOLA! TV" tvg-chno="228" tvg-logo="https://www.izzigo.tv/images/repository/374/436374-LOGO-m.png" group-title="Entretenimiento", ¡HOLA! TV
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/335477.m3u8
+
+#EXTINF:-1 tvg-id="I733.16217.schedulesdirect.org" tvg-name="tve" tvg-chno="230" tvg-logo="https://www.izzigo.tv/images/repository/141/6723141-LOGO-m.png" group-title="Entretenimiento", tve
+#EXTVLCOPT:network-caching=1000
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+
+#EXTINF:-1 tvg-id="I235.55980.schedulesdirect.org" tvg-name="distrito comedia" tvg-chno="233" tvg-logo="https://www.izzigo.tv/images/repository/389/8395389-LOGO-m.png" group-title="Entretenimiento", distrito comedia
+#EXTVLCOPT:network-caching=1000
+http://45.5.119.43:4000/play/a05l/index.m3u8
+
+#EXTINF:-1 tvg-id="I687.15211.schedulesdirect.org" tvg-name="TELEHIT" tvg-chno="235" tvg-logo="https://www.izzigo.tv/images/repository/760/9428760-LOGO-m.png" group-title="Música", TELEHIT
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/72649.m3u8
+
+#EXTINF:-1 tvg-id="I478.12712.schedulesdirect.org" tvg-name="MTV" tvg-chno="236" tvg-logo="https://www.izzigo.tv/images/repository/853/256853-LOGO-m.png" group-title="Música", MTV
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/492803.m3u8
+
+#EXTINF:-1 tvg-id="TELEHIT MUSICA.mx" tvg-name="TELEHIT MÚSICA" tvg-chno="238" tvg-logo="https://www.izzigo.tv/images/repository/694/9410694-LOGO-m.png" group-title="Música", TELEHIT MÚSICA
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/72650.m3u8
+
+#EXTINF:-1 tvg-id="MTV 00S.mx" tvg-name="BANDAMAX" tvg-chno="241" tvg-logo="https://www.izzigo.tv/images/repository/759/9428759-LOGO-m.png" group-title="Música", BANDAMAX
+#EXTVLCOPT:network-caching=1000
+http://181.79.84.66:8000/play/a00y/index.m3u8
+
+#EXTINF:-1 tvg-id="I708.107365.schedulesdirect.org" tvg-name="TNT SERIES" tvg-chno="242" tvg-logo="https://i.imgur.com/VmXYACu.png" group-title="Entretenimiento", TNT SERIES
+#EXTVLCOPT:network-caching=1000
+http://45.189.151.7:8000/play/a07l/index.m3u8
+
+#EXTINF:-1 tvg-id="I455.90682.schedulesdirect.org" tvg-name="Lifetime" tvg-chno="243" tvg-logo="https://www.izzigo.tv/images/repository/854/9304854-LOGO-m.png" group-title="Entretenimiento", Lifetime
+#EXTVLCOPT:network-caching=1000
+http://181.79.84.66:8000/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-id="I416.111055.schedulesdirect.org" tvg-name="HGTV" tvg-chno="246" tvg-logo="https://www.izzigo.tv/images/repository/472/8610472-LOGO-m.png" group-title="Entretenimiento", HGTV
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/334795.ts
+
+#EXTINF:-1 tvg-id="I329.91919.schedulesdirect.org" tvg-name="food network" tvg-chno="249" tvg-logo="https://www.izzigo.tv/images/repository/203/8653203-LOGO-m.png" group-title="Entretenimiento", food network
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/34759.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="TNT NOVELAS" tvg-chno="250" tvg-logo="https://i.imgur.com/zHypkpW.png" group-title="Entretenimiento", TNT NOVELAS
+#EXTVLCOPT:network-caching=1000
+http://45.189.151.7:8000/play/a07m/index.m3u8
+
+#EXTINF:-1 tvg-id="I756.56727.schedulesdirect.org" tvg-name="USA NETWORK" tvg-chno="251" tvg-logo="https://www.izzigo.tv/images/repository/854/14820854-LOGO-m.png" group-title="Entretenimiento", USA NETWORK
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/585064.ts
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="iConcerts" tvg-chno="260" tvg-logo="https://i.imgur.com/QtdwwFB.png" group-title="Música", iConcerts
+#EXTVLCOPT:network-caching=1000
+http://45.173.75.4:2061/play/a06y
+
+#EXTINF:-1 tvg-id="I636.28751.schedulesdirect.org" tvg-name="JUICEBOX" tvg-chno="261" tvg-logo="https://i.imgur.com/YOadVI1.png" group-title="Música", JUICEBOX
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/stingvid_720p_1/stingvid_720p_1.mp4
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="HiTS!" tvg-chno="262" tvg-logo="https://i.imgur.com/P5Rc2z5.png" group-title="Música", HiTS!
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/stingvid_720p_1/stingvid_720p_1.mp4
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="tv migrante" tvg-chno="266" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1248206-8c.png" group-title="Mundo y Cultura", tv migrante
+#EXTVLCOPT:network-caching=1000
+https://s5.mexside.net:1936/tvmigrante/tvmigrante/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="I32.90309.schedulesdirect.org" tvg-name="Antena3" tvg-chno="272" tvg-logo="https://www.izzigo.tv/images/repository/278/17592278-LOGO-m.png" group-title="Mundo y Cultura", Antena3
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/494041.m3u8
+
+#EXTINF:-1 tvg-id="I512.19733.schedulesdirect.org" tvg-name="NHK WORLD PREMIUM" tvg-chno="274" tvg-logo="https://i.imgur.com/X8bdz8q.png" group-title="Mundo y Cultura", NHK WORLD JAPAN
+#EXTVLCOPT:network-caching=1000
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+
+#EXTINF:-1 tvg-id="I562.97340.schedulesdirect.org" tvg-name="GLOBO" tvg-chno="275" tvg-logo="https://www.izzigo.tv/images/repository/069/7020069-LOGO-m.png" group-title="Mundo y Cultura", GLOBO
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/525325.m3u8
+
+#EXTINF:-1 tvg-id="I555.19040.schedulesdirect.org" tvg-name="Rai" tvg-chno="276" tvg-logo="https://www.izzigo.tv/images/repository/029/16780029-LOGO-m.png" group-title="Mundo y Cultura", Rai
+#EXTVLCOPT:network-caching=1000
+http://181.114.57.246:4000/play/g8nvqYfMa2tkU5em/index.m3u8
+
+#EXTINF:-1 tvg-id="I727.16422.schedulesdirect.org" tvg-name="TV5MONDE" tvg-chno="278" tvg-logo="https://www.izzigo.tv/images/repository/030/16780030-LOGO-m.png" group-title="Mundo y Cultura", TV5 MONDE
+#EXTVLCOPT:network-caching=1000
+https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8
+
+#EXTINF:-1 tvg-id="I361.17672.schedulesdirect.org" tvg-name="TELEVISIÓN DE GALICIA" tvg-chno="279" tvg-logo="https://www.izzigo.tv/images/repository/876/256876-LOGO-m.png" group-title="Mundo y Cultura", TELEVISIÓN DE GALICIA
+https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="I273.64230.schedulesdirect.org" tvg-name="DW Español" tvg-chno="281" tvg-logo="https://www.izzigo.tv/images/repository/154/6975154-LOGO-m.png" group-title="Mundo y Cultura", DW Español
+#EXTVLCOPT:network-caching=1000
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="I516.60295.schedulesdirect.org" tvg-name="nick jr." tvg-chno="308" tvg-logo="https://www.izzigo.tv/images/repository/181/16975181-LOGO-m.png" group-title="Niños", nick jr.
+#EXTVLCOPT:network-caching=1000
+http://190.61.42.218:9000/play/a01u
+
+#EXTINF:-1 tvg-id="I221.45955.schedulesdirect.org" tvg-name="discovery kids" tvg-chno="310" tvg-logo="https://www.izzigo.tv/images/repository/160/16975160-LOGO-m.png" group-title="Niños", discovery kids
+#EXTVLCOPT:network-caching=1000
+http://45.189.151.7:8000/play/a068/index.m3u8
+
+#EXTINF:-1 tvg-id="ONCE NIÃOS.mx" tvg-name="once niñas y niños" tvg-chno="311" tvg-logo="https://www.izzigo.tv/images/repository/304/9134304-LOGO-m.png" group-title="Niños", once niñas y niños
+#EXTVLCOPT:network-caching=1000
+http://38.49.128.38:8000/play/a0nr/index.m3u8
+
+#EXTINF:-1 tvg-id="I147.101735.schedulesdirect.org" tvg-name="CARTOON NETWORK" tvg-chno="312" tvg-logo="https://www.izzigo.tv/images/repository/158/16975158-LOGO-m.png" group-title="Niños", CARTOON NETWORK
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/76036.m3u8
+
+#EXTINF:-1 tvg-id="CARTOONITO.mx" tvg-name="CARTOONITO" tvg-chno="314" tvg-logo="https://www.izzigo.tv/images/repository/764/11516764-LOGO-m.png" group-title="Niños", CARTOONITO
+#EXTVLCOPT:network-caching=1000
+http://181.79.84.66:8000/play/a021/index.m3u8
+
+#EXTINF:-1 tvg-id="I515.101731.schedulesdirect.org" tvg-name="nickelodeon" tvg-chno="316" tvg-logo="https://www.izzigo.tv/images/repository/180/16975180-LOGO-m.png" group-title="Niños", nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/83081.ts
+
+#EXTINF:-1 tvg-id="I112.72801.schedulesdirect.org" tvg-name="bitMe" tvg-chno="317" tvg-logo="https://www.izzigo.tv/images/repository/155/16975155-LOGO-m.png" group-title="Niños", bitMe
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/494051.m3u8
+
+#EXTINF:-1 tvg-id="I229.79589.schedulesdirect.org" tvg-name="Disney CHANNEL" tvg-chno="318" tvg-logo="https://www.izzigo.tv/images/repository/890/256890-LOGO-m.png" group-title="Niños", Disney CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://45.189.151.7:8000/play/a06d/index.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="DREAMWORKS" tvg-chno="320" tvg-logo="https://www.izzigo.tv/images/repository/904/12121904-LOGO-m.png" group-title="Niños", DREAMWORKS
+#EXTVLCOPT:network-caching=1000
+http://190.102.139.189:8000/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-id="I231.61311.schedulesdirect.org" tvg-name="Disney Jr." tvg-chno="322" tvg-logo="https://www.izzigo.tv/images/repository/028/16780028-LOGO-m.png" group-title="Niños", Disney Jr.
+#EXTVLCOPT:network-caching=1000
+http://45.189.151.7:8000/play/a06e/index.m3u8
+
+#EXTINF:-1 tvg-id="I711.63109.schedulesdirect.org" tvg-name="tooncast" tvg-chno="323" tvg-logo="https://www.izzigo.tv/images/repository/894/256894-LOGO-m.png" group-title="Niños", tooncast
+#EXTVLCOPT:network-caching=1000
+http://45.189.151.7:8000/play/a07o/index.m3u8
+
+#EXTINF:-1 tvg-id="I106.78831.schedulesdirect.org" tvg-name="babyfirst" tvg-chno="325" tvg-logo="https://i.imgur.com/cf39LUb.png" group-title="Niños", babyfirst
+#EXTVLCOPT:network-caching=1000
+http://45.189.151.7:8000/play/a05l/index.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="edye TV" tvg-chno="326" tvg-logo="https://www.izzigo.tv/images/repository/709/18043709-LOGO-m.png" group-title="Niños", edye TV
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/vid_s_720p/vid_s_720p.mp4
+
+#EXTINF:-1 tvg-id="I214.25788.schedulesdirect.org" tvg-name="Discovery" tvg-chno="01" tvg-logo="https://www.izzigo.tv/images/repository/470/8861470-LOGO-m.png" group-title="Mundo y Cultura", Discovery
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/335466.m3u8
+
+#EXTINF:-1 tvg-id="I30.96445.schedulesdirect.org" tvg-name="animal planet" tvg-chno="402" tvg-logo="https://www.izzigo.tv/images/repository/593/8502593-LOGO-m.png" group-title="Mundo y Cultura", animal planet
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/34738.m3u8
+
+#EXTINF:-1 tvg-id="I503.88533.schedulesdirect.org" tvg-name="NATIONAL GEOGRAPHIC" tvg-chno="265" tvg-logo="https://www.izzigo.tv/images/repository/137/7671137-LOGO-m.png" group-title="Mundo y Cultura", NATIONAL GEOGRAPHIC
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/335464.ts
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="Curiosity CHANNEL" tvg-chno="404" tvg-logo="https://www.izzigo.tv/images/repository/154/13824154-LOGO-m.png" group-title="Mundo y Cultura", Curiosity CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/494175.ts
+
+#EXTINF:-1 tvg-id="I420.70669.schedulesdirect.org" tvg-name="HISTORY" tvg-chno="408" tvg-logo="https://www.izzigo.tv/images/repository/738/11940738-LOGO-m.png" group-title="Mundo y Cultura", HISTORY
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/335462.ts
+
+#EXTINF:-1 tvg-id="I422.100817.schedulesdirect.org" tvg-name="HISTORY 2" tvg-chno="413" tvg-logo="https://www.izzigo.tv/images/repository/742/11940742-LOGO-m.png" group-title="Mundo y Cultura", HISTORY 2
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/492763.ts
+
+#EXTINF:-1 tvg-id="I223.110960.schedulesdirect.org" tvg-name="Discovery science" tvg-chno="421" tvg-logo="https://i.imgur.com/LDeatSA.png" group-title="Mundo y Cultura", Discovery science
+#EXTVLCOPT:network-caching=1000
+https://astra.fibernetisp.com.co/play/a0m2/index.m3u8
+
+#EXTINF:-1 tvg-id="I226.107611.schedulesdirect.org" tvg-name="Discovery turbo ᴴᴰ" tvg-chno="423" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425251-8c.png" group-title="Mundo y Cultura", Discovery turbo ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://24.152.54.30:8085/play/a03t/index.m3u8
+
+#EXTINF:-1 tvg-id="I322.106731.schedulesdirect.org" tvg-name="film & arts" tvg-chno="430" tvg-logo="https://www.izzigo.tv/images/repository/078/7020078-LOGO-m.png" group-title="Mundo y Cultura", film & arts
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/335446.m3u8
+
+#EXTINF:-1 tvg-id="I283.46421.schedulesdirect.org" tvg-name="ESNE" tvg-chno="441" tvg-logo="https://www.izzigo.tv/images/repository/079/7020079-LOGO-m.png" group-title="Mundo y Cultura", ESNE
+#EXTVLCOPT:network-caching=1000
+http://186.151.95.60:8000/play/c089/index.m3u8
+
+#EXTINF:-1 tvg-id="APRENDE+.mx" tvg-name="@prende+" tvg-chno="480" tvg-logo="https://www.izzigo.tv/images/repository/460/15657460-LOGO-m.png" group-title="Mundo y Cultura", @prende+
+#EXTVLCOPT:network-caching=1000
+http://185.56.109.253/AprendeTv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="sky sports" tvg-chno="501" tvg-logo="https://www.izzigo.tv/images/repository/678/16482678-LOGO-m.png" group-title="Deportes", sky sports
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/492850.ts
+
+#EXTINF:-1 tvg-id="I446.52300.schedulesdirect.org" tvg-name="sky sports LALlGA" tvg-chno="516" tvg-logo="https://www.izzigo.tv/images/repository/680/16482680-LOGO-m.png" group-title="Deportes", sky sports 16
+#EXTVLCOPT:network-caching=1000
+http://190.92.10.66:4000/play/a001/index.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="sky sports Fut Femenil" tvg-chno="521" tvg-logo="https://www.izzigo.tv/images/repository/683/16482683-LOGO-m.png" group-title="Deportes", sky sports 21
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/492896.ts
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="sky sports BUNDESLIGA" tvg-chno="524" tvg-logo="https://www.izzigo.tv/images/repository/685/16482685-LOGO-m.png" group-title="Deportes", sky sports 24
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/492849.ts
+
+#EXTINF:-1 tvg-id="I717.38683.schedulesdirect.org" tvg-name="TUDN" tvg-chno="547" tvg-logo="https://www.izzigo.tv/images/repository/577/8706577-LOGO-m.png" group-title="Deportes", TUDN
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/334771.m3u8
+
+#EXTINF:-1 tvg-id="I15.83166.schedulesdirect.org" tvg-name="ADRENALINA SPORTS NETWORK" tvg-chno="547" tvg-logo="https://www.izzigo.tv/images/repository/382/8462382-LOGO-m.png" group-title="Deportes", ADRENALINA SPORTS NETWORK
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/73508.m3u8
+
+#EXTINF:-1 tvg-id="I338.61704.schedulesdirect.org" tvg-name="FOX SPORTS" tvg-chno="549" tvg-logo="https://www.izzigo.tv/images/repository/109/17224109-LOGO-m.png" group-title="Deportes", FOX SPORTS
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/40311.m3u8
+
+#EXTINF:-1 tvg-id="I292.37747.schedulesdirect.org" tvg-name="ESPN 2" tvg-chno="550" tvg-logo="https://www.izzigo.tv/images/repository/798/9703798-LOGO-m.png" group-title="Deportes", ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://38.49.128.38:8000/play/a091/index.m3u
+
+#EXTINF:-1 tvg-id="I341.71328.schedulesdirect.org" tvg-name="FOX SPORTS 2" tvg-chno="552" tvg-logo="https://www.izzigo.tv/images/repository/110/17224110-LOGO-m.png" group-title="Deportes", FOX SPORTS 2
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/73665.m3u8
+
+#EXTINF:-1 tvg-id="I287.19158.schedulesdirect.org" tvg-name="ESPN" tvg-chno="553" tvg-logo="https://www.izzigo.tv/images/repository/797/9703797-LOGO-m.png" group-title="Deportes", ESPN
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/72665.m3u8
+
+#EXTINF:-1 tvg-id="I510.34710.schedulesdirect.org" tvg-name="NFL NETWORK" tvg-chno="554" tvg-logo="https://www.izzigo.tv/images/repository/774/13774774-LOGO-m.png" group-title="Deportes", NFL NETWORK
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/72662.m3u8
+
+#EXTINF:-1 tvg-id="I344.105005.schedulesdirect.org" tvg-name="FOX SPORTS 3" tvg-chno="511" tvg-logo="https://www.izzigo.tv/images/repository/117/17224117-LOGO-m.png" group-title="Deportes", FOX SPORTS 3
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/73666.ts
+
+#EXTINF:-1 tvg-id="I295.79042.schedulesdirect.org" tvg-name="ESPN 3" tvg-chno="559" tvg-logo="https://www.izzigo.tv/images/repository/921/256921-LOGO-m.png" group-title="Deportes", ESPN 3
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/335455.m3u8
+
+#EXTINF:-1 tvg-id="I695.61033.schedulesdirect.org" tvg-name="GOLF CHANNEL LA" tvg-chno="560" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1288225-8c.png" group-title="Deportes", GOLF CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/494068.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="Hi! Sports" tvg-chno="564" tvg-logo="https://www.izzigo.tv/images/repository/859/16644859-LOGO-m.png" group-title="Deportes", Hi! Sports
+#EXTVLCOPT:network-caching=1000
+http://148.230.149.45:1020/play/a01u/index.m3u8
+
+#EXTINF:-1 tvg-id="I296.121144.schedulesdirect.org" tvg-name="ESPN 4" tvg-chno="566" tvg-logo="https://www.izzigo.tv/images/repository/895/15603895-LOGO-m.png" group-title="Deportes", ESPN 4
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/83140.m3u8
+
+#EXTINF:-1 tvg-id="I548.72625.schedulesdirect.org" tvg-name="PX SPORTS" tvg-chno="507" tvg-logo="https://www.izzigo.tv/images/repository/133/16975133-LOGO-m.png" group-title="Deportes", PX SPORTS
+#EXTVLCOPT:network-caching=1000
+http://45.189.62.33:8002/play/a0ku/index.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="BASKET AMERICA TV" tvg-chno="542" tvg-logo="https://i.imgur.com/SNjfVu6.png" group-title="Deportes", BASKET AMERICA TV
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/vid_s_720p/vid_s_720p.mp4
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="BeisbolLatino TV" tvg-chno="543" tvg-logo="https://www.izzigo.tv/images/repository/151/18190151-LOGO-m.png" group-title="Deportes", BeisbolLatino TV
+#EXTVLCOPT:network-caching=1000
+http://45.189.151.7:8000/play/a05m/index.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="COMBATV" tvg-chno="544" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1240427-8c.png" group-title="Deportes", COMBATV
+#EXTVLCOPT:network-caching=1000
+https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="ITV deportes" tvg-chno="545" tvg-logo="https://www.izzigo.tv/images/repository/708/18043708-LOGO-m.png" group-title="Deportes", ITV deportes
+#EXTVLCOPT:network-caching=1000
+https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
+
+#EXTINF:-1 tvg-id="I448.67632.schedulesdirect.org" tvg-name="LAS" tvg-chno="546" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1240406-8c.png" group-title="Deportes", Latin America Sport
+#EXTVLCOPT:network-caching=1000
+http://24.152.54.30:8085/play/a02f/index.m3u8
+
+#EXTINF:-1 tvg-id="I448.67632.schedulesdirect.org" tvg-name="MÉXICO Al Aire Libre" tvg-chno="547" tvg-logo="https://www.izzigo.tv/images/repository/164/18190164-LOGO-m.png" group-title="Deportes", MÉXICO Al Aire Libre
+#EXTVLCOPT:network-caching=1000
+https://archive.org/download/vid_s_720p/vid_s_720p.mp4
+
+#EXTINF:-1 tvg-id="I505.32281.schedulesdirect.org" tvg-name="NBA TV" tvg-chno="557" tvg-logo="https://www.izzigo.tv/images/repository/414/14859414-LOGO-m.png" group-title="Deportes", NBA TV
+#EXTVLCOPT:network-caching=1000
+http://212.102.60.231/NBA_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="I89.34863.schedulesdirect.org" tvg-name="AYM Sports" tvg-chno="565" tvg-logo="https://i.imgur.com/ftoxCQu.png" group-title="Deportes", AYM Sports ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
+
+#EXTINF:-1 tvg-id="I346.123582.schedulesdirect.org" tvg-name="FOX SPORTS PREMIUM" tvg-chno="567" tvg-logo="https://www.izzigo.tv/images/repository/121/17224121-LOGO-m.png" group-title="Deportes", FOX SPORTS PREMIUM
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/3808.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="sky sports 580" tvg-chno="1580" tvg-logo="https://www.izzigo.tv/images/repository/838/16695838-LOGO-m.png" group-title="Deportes", sky sports 580
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/492840.ts
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="sky sports 581" tvg-chno="1581" tvg-logo="https://www.izzigo.tv/images/repository/839/16695839-LOGO-m.png" group-title="Deportes", sky sports 581
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/492841.ts
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="sky sports 582" tvg-chno="1582" tvg-logo="https://www.izzigo.tv/images/repository/840/16695840-LOGO-m.png" group-title="Deportes", sky sports 582
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/492842.ts
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="sky sports 583" tvg-chno="1583" tvg-logo="https://www.izzigo.tv/images/repository/841/16695841-LOGO-m.png" group-title="Deportes", sky sports 583
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/492843.ts
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="sky sports 584" tvg-chno="1584" tvg-logo="https://www.izzigo.tv/images/repository/842/16695842-LOGO-m.png" group-title="Deportes", sky sports 584
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/492844.ts
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="sky sports 585" tvg-chno="1585" tvg-logo="https://www.izzigo.tv/images/repository/232/16787232-LOGO-m.png" group-title="Deportes", sky sports 585
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/492845.ts
+
+#EXTINF:-1 tvg-id="I1081.87578.schedulesdirect.org" tvg-name="sky sports 586" tvg-chno="1586" tvg-logo="https://www.izzigo.tv/images/repository/233/16787233-LOGO-m.png" group-title="Deportes", sky sports 586
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/529846.ts
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="sky sports 587" tvg-chno="1587" tvg-logo="https://www.izzigo.tv/images/repository/234/16787234-LOGO-m.png" group-title="Deportes", sky sports 587
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/492846.ts
+
+#EXTINF:-1 tvg-id="I207.19736.schedulesdirect.org" tvg-name="D película" tvg-chno="604" tvg-logo="https://www.izzigo.tv/images/repository/619/9845619-LOGO-m.png" group-title="Cinema", D película
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/494173.m3u8
+
+#EXTINF:-1 tvg-id="I373.16298.schedulesdirect.org" tvg-name="GOLDEN" tvg-chno="607" tvg-logo="https://www.izzigo.tv/images/repository/931/256931-LOGO-m.png" group-title="Cinema", GOLDEN
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/334766.m3u8
+
+#EXTINF:-1 tvg-id="I374.16423.schedulesdirect.org" tvg-name="GOLDEN EDGE" tvg-chno="608" tvg-logo="https://www.izzigo.tv/images/repository/826/9663826-LOGO-m.png" group-title="Cinema", GOLDEN EDGE
+#EXTVLCOPT:network-caching=1000
+http://181.79.84.66:8000/play/a00z/index.m3u8
+
+#EXTINF:-1 tvg-id="I701.19384.schedulesdirect.org" tvg-name="TNT" tvg-chno="610" tvg-logo="https://i.imgur.com/z4KOWqf.png" group-title="Cinema", TNT
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/492879.ts
+
+#EXTINF:-1 tvg-id="I25.90852.schedulesdirect.org" tvg-name="amc" tvg-chno="611" tvg-logo="https://www.izzigo.tv/images/repository/139/16975139-LOGO-m.png" group-title="Cinema", amc
+#EXTVLCOPT:network-caching=1000
+http://45.189.151.7:8000/play/a05c/index.m3u8
+
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL.mx" tvg-name="STUDIO UNIVERSAL" tvg-chno="613" tvg-logo="https://www.izzigo.tv/images/repository/081/7020081-LOGO-m.png" group-title="Cinema", STUDIO UNIVERSAL
+#EXTVLCOPT:network-caching=1000
+http://45.189.151.7:8000/play/a07k/index.m3u8
+
+#EXTINF:-1 tvg-id="SONY MOVIES.mx" tvg-name="SONY MOVIES" tvg-chno="614" tvg-logo="https://www.izzigo.tv/images/repository/206/12076206-LOGO-m.png" group-title="Cinema", SONY MOVIES
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/516165.ts
+
+#EXTINF:-1 tvg-id="I681.19246.schedulesdirect.org" tvg-name="TCM" tvg-chno="619" tvg-logo="https://www.izzigo.tv/images/repository/937/256937-LOGO-m.png" group-title="Cinema", TCM
+#EXTVLCOPT:network-caching=1000
+http://181.79.84.66:8000/play/a01f/index.m3u8
+
+#EXTINF:-1 tvg-id="I174.10120.schedulesdirect.org" tvg-name="CINEMAX" tvg-chno="623" tvg-logo="https://www.izzigo.tv/images/repository/940/256940-LOGO-m.png" group-title="Cinema", CINEMAX
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/76845.m3u8
+
+#EXTINF:-1 tvg-id="I167.67687.schedulesdirect.org" tvg-name="CINECANAL" tvg-chno="624" tvg-logo="https://www.izzigo.tv/images/repository/229/8315229-LOGO-m.png" group-title="Cinema", CINECANAL
+#EXTVLCOPT:network-caching=1000
+http://45.189.151.7:8000/play/a060/index.m3u8
+
+#EXTINF:-1 tvg-id="I306.27741.schedulesdirect.org" tvg-name="EUROPA europa" tvg-chno="627" tvg-logo="https://www.izzigo.tv/images/repository/492/7022492-LOGO-m.png" group-title="Cinema", EUROPA europa
+#EXTVLCOPT:network-caching=1000
+http://45.5.117.57:5550/play/a01q/index.m3u8
+
+#EXTINF:-1 tvg-id="I393.80118.schedulesdirect.org" tvg-name="HBO family" tvg-chno="630" tvg-logo="https://www.izzigo.tv/images/repository/798/9939798-LOGO-m.png" group-title="HBO/max", HBO family
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/494070.ts
+
+#EXTINF:-1 tvg-id="I407.80120.schedulesdirect.org" tvg-name="HBO SIGNATURE" tvg-chno="631" tvg-logo="https://www.izzigo.tv/images/repository/149/6723149-LOGO-m.png" group-title="HBO/max", HBO SIGNATURE
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/492757.m3u8
+
+#EXTINF:-1 tvg-id="I389.80652.schedulesdirect.org" tvg-name="HBO 2" tvg-chno="632" tvg-logo="https://www.izzigo.tv/images/repository/171/16975171-LOGO-m.png" group-title="HBO/max", HBO 2
+#EXTVLCOPT:network-caching=1000
+http://45.189.151.7:8000/play/a06v/index.m3u8
+
+#EXTINF:-1 tvg-id="I385.84823.schedulesdirect.org" tvg-name="HBO" tvg-chno="633" tvg-logo="https://www.izzigo.tv/images/repository/150/6723150-LOGO-m.png" group-title="HBO/max", HBO
+#EXTVLCOPT:network-caching=1000
+http://45.189.151.7:8000/play/a06u/index.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="HBO+" tvg-chno="635" tvg-logo="https://www.izzigo.tv/images/repository/173/16975173-LOGO-m.png" group-title="HBO/max", HBO+
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/492755.m3u8
+
+#EXTINF:-1 tvg-id="I395.68119.schedulesdirect.org" tvg-name="HBO MUNDI" tvg-chno="636" tvg-logo="https://www.izzigo.tv/images/repository/736/9068736-LOGO-m.png" group-title="HBO/max", HBO MUNDI
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/494082.m3u8
+
+#EXTINF:-1 tvg-id="I401.70545.schedulesdirect.org" tvg-name="HBO POP" tvg-chno="637" tvg-logo="https://www.izzigo.tv/images/repository/175/16975175-LOGO-m.png" group-title="HBO/max", HBO POP
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/492756.m3u8
+
+#EXTINF:-1 tvg-id="I410.80115.schedulesdirect.org" tvg-name="HBO XTREME" tvg-chno="639" tvg-logo="https://www.izzigo.tv/images/repository/741/9068741-LOGO-m.png" group-title="HBO/max", HBO XTREME
+#EXTVLCOPT:network-caching=1000
+http://45.189.151.7:8000/play/a06w/index.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="GOLDEN PREMIER" tvg-chno="643" tvg-logo="https://www.izzigo.tv/images/repository/280/17592280-LOGO-m.png" group-title="Cinema", GOLDEN PREMIER
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/494067.m3u8
+
+#EXTINF:-1 tvg-id="I748.122761.schedulesdirect.org" tvg-name="UNIVERSAL PREMIERE" tvg-chno="650" tvg-logo="https://www.izzigo.tv/images/repository/273/17592273-LOGO-m.png" group-title="UNIVERSAL+", UNIVERSAL PREMIERE
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/500187.m3u8
+
+#EXTINF:-1 tvg-id="I742.122767.schedulesdirect.org" tvg-name="UNIVERSAL CINEMA" tvg-chno="651" tvg-logo="https://www.izzigo.tv/images/repository/714/16975714-LOGO-m.png" group-title="UNIVERSAL+", UNIVERSAL CINEMA
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/500185.m3u8
+
+#EXTINF:-1 tvg-id="UNIVERSAL COMEDY.mx" tvg-name="UNIVERSAL COMEDY" tvg-chno="652" tvg-logo="https://www.izzigo.tv/images/repository/716/16975716-LOGO-m.png" group-title="UNIVERSAL+", UNIVERSAL COMEDY
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/500186.m3u8
+
+#EXTINF:-1 tvg-id="I746.122765.schedulesdirect.org" tvg-name="UNIVERSAL CRIME" tvg-chno="653" tvg-logo="https://www.izzigo.tv/images/repository/718/16975718-LOGO-m.png" group-title="UNIVERSAL+", UNIVERSAL CRIME
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/500189.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="UNIVERSAL REALITY" tvg-chno="654" tvg-logo="https://www.izzigo.tv/images/repository/722/16975722-LOGO-m.png" group-title="UNIVERSAL+", UNIVERSAL REALITY
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/72627.m3u8
+
+#EXTINF:-1 tvg-id="USBD350002623" tvg-name="Classica" tvg-chno="708" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425477-8c.png" group-title="Música", Classica
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="I193.58646.schedulesdirect.org" tvg-name="CNN ᴴᴰ" tvg-chno="816" tvg-logo="https://www.izzigo.tv/images/repository/060/257060-LOGO-m.png" group-title="Noticias", CNN ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="I43.90898.schedulesdirect.org" tvg-name="A3Series" tvg-chno="825" tvg-logo="https://www.izzigo.tv/images/repository/039/9312039-LOGO-m.png" group-title="Entretenimiento", A3Series
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/72611.m3u8
+
+#EXTINF:-1 tvg-id="I588.106724.schedulesdirect.org" tvg-name="star tve ᴴᴰ" tvg-chno="826" tvg-logo="https://www.izzigo.tv/images/repository/075/8896075-LOGO-m.png" group-title="Entretenimiento", star tve ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://186.151.95.60:8000/play/a028/index.m3u8
+
+#EXTINF:-1 tvg-id="I228.66488.schedulesdirect.org" tvg-name="Discovery world ᴴᴰ" tvg-chno="848" tvg-logo="https://www.izzigo.tv/images/repository/087/257087-LOGO-m.png" group-title="Mundo y Cultura", Discovery world ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://45.189.151.7:8000/play/a06a/index.m3u8
+
+#EXTINF:-1 tvg-id="I689.73070.schedulesdirect.org" tvg-name="TELEHIT MÚSICA PLUS" tvg-chno="854" tvg-logo="https://www.izzigo.tv/images/repository/748/9410748-LOGO-m.png" group-title="Música", TELEHIT MÚSICA PLUS
+#EXTVLCOPT:network-caching=1000
+http://45.5.118.188:8000/play/a06i/index.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="clan" tvg-chno="878" tvg-logo="https://www.izzigo.tv/images/repository/074/8896074-LOGO-m.png" group-title="Niños", clan
+#EXTVLCOPT:network-caching=1000
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
+
+#EXTINF:-1 tvg-id="I225.65940.schedulesdirect.org" tvg-name="Discovery THEATER ᴴᴰ" tvg-chno="880" tvg-logo="https://www.izzigo.tv/images/repository/085/257085-LOGO-m.png" group-title="Mundo y Cultura", Discovery THEATER ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+http://45.189.151.7:8000/play/a06b/index.m3u8
+
+#EXTINF:-1 tvg-id="I41.82808.schedulesdirect.org" tvg-name="A3CINE" tvg-chno="909" tvg-logo="https://www.izzigo.tv/images/repository/136/16975136-LOGO-m.png" group-title="Cinema", A3CINE
+#EXTVLCOPT:network-caching=1000
+http://45.189.151.7:8000/play/a05b/index.m3u8
+
+#EXTINF:-1 tvg-id="I210.74016.schedulesdirect.org" tvg-name="D película plus" tvg-chno="910" tvg-logo="https://www.izzigo.tv/images/repository/102/257102-LOGO-m.png" group-title="Cinema", D película plus
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/73609.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="GOLDEN PLUS" tvg-chno="911" tvg-logo="https://www.izzigo.tv/images/repository/168/16975168-LOGO-m.png" group-title="Cinema", GOLDEN PLUS
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/76874.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="Realmadrid TV" tvg-chno="1419" tvg-logo="https://www.izzigo.tv/images/repository/770/8574770-LOGO-m.png" group-title="Deportes", Realmadrid TV
+#EXTVLCOPT:network-caching=1000
+http://190.108.89.228:8000/play/a0gy/index.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="USBD3500024YB" tvg-name="Qello CONCERTS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/528505-8c.png" group-title="Audio", Qello CONCERTS
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="KARAOKE" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/897316-8c.png" group-title="Audio", KARAOKE
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="MOVIE MUSIC" tvg-logo="http://imgfz.com/i/7ZRceb4.png" group-title="Audio", MOVIE MUSIC
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="USBD3500025GS" tvg-name="djazz" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425475-8c.png" group-title="Audio", djazz
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="naturescape" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/536296-8c.png" group-title="Audio", naturescape
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="iConcerts" tvg-logo="https://i.imgur.com/QtdwwFB.png" group-title="Audio", iConcerts
+#EXTVLCOPT:network-caching=1000
+https://dash2.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USBD3500038R6" tvg-name="holidayscapes" tvg-logo="http://imgfz.com/i/Fr7KXIN.png" group-title="Audio", holidayscapes
+#EXTVLCOPT:network-caching=1000
+https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500038R6
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="TikTok Radio" tvg-logo="http://imgfz.com/i/BRVzX8J.png" group-title="Audio", TikTok Radio
+#EXTVLCOPT:network-caching=1000
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814594/hls/master.m3u8?ads.xumo_channelId=88814594
+
+#EXTINF:-1 tvg-id="USBD3500027DS" tvg-name="ZenLIFE" tvg-logo="http://imgfz.com/i/Q7yHuLh.png" group-title="Audio", ZenLIFE
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10283
+
+#EXTINF:-1 tvg-id="USBD35000180U" tvg-name="Classic Rock" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Classic Rock
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="USBD3500011J3" tvg-name=Easy Listening"" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Easy Listening
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="USBD3300022QK" tvg-name="Remember The '80s" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Remember The '80s
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="USBD3500008IJ" tvg-name="Flashback 70's" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Flashback 70's
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="Hit List" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Hit List
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="Greatest Hits" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Greatest Hits
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="USBD3300021KV" tvg-name="Hot Country" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Hot Country
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="USBD35000149S" tvg-name="Nothin' But '90s" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Nothin' But '90s
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="Pop Adult" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Pop Adult
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="Alternative" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Alternative
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="USBD3500017CE" tvg-name="Romance Latino" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Romance Latino
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="USBD35000128A" tvg-name="Smooth Jazz" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Smooth Jazz
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="Soul Storm" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Soul Storm
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="USBD3500013DG" tvg-name="The Spa" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", The Spa
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="USBD3500016NH" tvg-name="Today's K-Pop" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Today's K-Pop
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="USBD3500009Y3" tvg-name="Éxitos Del Momento" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Éxitos Del Momento
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="USBD3500010MT" tvg-name="Hip-Hop/R&B" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Hip-Hop/R&B
+#EXTVLCOPT:network-caching=1000
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-chno="" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Big Band
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/494195.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-chno="" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Deep Blues
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/494196.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-chno="" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Clásicos del "Dance" 
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/494198.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-chno="" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Clásicos Indie
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/494199.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-chno="" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Clásicos del Soul
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/492817.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-chno="" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Club de Baile
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/492818.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-chno="" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Música del Mundo
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/492820.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-chno="" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Estándares
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/492822.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-chno="" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Euro Hits
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/492823.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-chno="" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Éxitos de las Américas
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/492824.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-chno="" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Éxitos de Brasil
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/492825.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-chno="" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Éxitos Recientes
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/492827.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-chno="" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Éxitos de Italia
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/492826.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-chno="" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Fiesta Continua
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/492828.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-chno="" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Himnos del Rock
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/492830.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-chno="" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Jammin' Reggae
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/492831.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-chno="" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Latin Lounge
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/492834.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-chno="" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Éxitos Tropicales
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/492835.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-chno="" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Música Ligera
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/492836.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-chno="" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Mariachi y Ranchera
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/492837.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-chno="" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", New Age
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/Erick122/Ng8z6TXChbuz/492838.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="sky PREMIERE 01" tvg-chno="1801" tvg-logo="https://i.imgur.com/Hwc12Bg.png" group-title="sky PREMIERE", The ritual
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/cplusmx4565Ag/ZqnyQLCjJ33e/48943.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="sky PREMIERE 02" tvg-chno="1802" tvg-logo="https://i.imgur.com/Hwc12Bg.png" group-title="sky PREMIERE", Las cuatro estaciones de liebre
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/cplusmx4565Ag/ZqnyQLCjJ33e/46620.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="sky PREMIERE 03" tvg-chno="1803" tvg-logo="https://i.imgur.com/Hwc12Bg.png" group-title="sky PREMIERE", Wicked
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/cplusmx4565Ag/ZqnyQLCjJ33e/46621.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="sky PREMIERE 04" tvg-chno="1804" tvg-logo="https://i.imgur.com/Hwc12Bg.png" group-title="sky PREMIERE", Attack 13
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/cplusmx4565Ag/ZqnyQLCjJ33e/46622.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="sky PREMIERE 05" tvg-chno="1805" tvg-logo="https://i.imgur.com/Hwc12Bg.png" group-title="sky PREMIERE", Eden
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/cplusmx4565Ag/ZqnyQLCjJ33e/46623.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="sky PREMIERE 06" tvg-chno="1806" tvg-logo="https://i.imgur.com/Hwc12Bg.png" group-title="sky PREMIERE", LEGO Disney FROZEN La misión de los frailesillos
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/cplusmx4565Ag/ZqnyQLCjJ33e/46624.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="sky PREMIERE 07" tvg-chno="1807" tvg-logo="https://i.imgur.com/Hwc12Bg.png" group-title="sky PREMIERE", Bono: stories of surrender
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/cplusmx4565Ag/ZqnyQLCjJ33e/46625.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="sky PREMIERE 08" tvg-chno="1808" tvg-logo="https://i.imgur.com/Hwc12Bg.png" group-title="sky PREMIERE", Final destination bloodlines
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/cplusmx4565Ag/ZqnyQLCjJ33e/46626.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="sky PREMIERE 09" tvg-chno="1809" tvg-logo="https://i.imgur.com/Hwc12Bg.png" group-title="sky PREMIERE", F1
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/cplusmx4565Ag/ZqnyQLCjJ33e/46627.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="sky PREMIERE 10" tvg-chno="1810" tvg-logo="https://i.imgur.com/Hwc12Bg.png" group-title="sky PREMIERE", Fury
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/cplusmx4565Ag/ZqnyQLCjJ33e/46628.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="sky PREMIERE 11" tvg-chno="1811" tvg-logo="https://i.imgur.com/Hwc12Bg.png" group-title="sky PREMIERE", Kayara
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/cplusmx4565Ag/ZqnyQLCjJ33e/46629.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="sky PREMIERE 12" tvg-chno="1812" tvg-logo="https://i.imgur.com/Hwc12Bg.png" group-title="sky PREMIERE", Lilo & Stitch
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/cplusmx4565Ag/ZqnyQLCjJ33e/46630.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="sky PREMIERE 13" tvg-chno="1813" tvg-logo="https://i.imgur.com/Hwc12Bg.png" group-title="sky PREMIERE", Moana 2
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/cplusmx4565Ag/ZqnyQLCjJ33e/46631.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="sky PREMIERE 14" tvg-chno="1814" tvg-logo="https://i.imgur.com/Hwc12Bg.png" group-title="sky PREMIERE", Raid 2
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/cplusmx4565Ag/ZqnyQLCjJ33e/46632.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="sky PREMIERE 15" tvg-chno="1815" tvg-logo="https://i.imgur.com/Hwc12Bg.png" group-title="sky PREMIERE", The last rodeo
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/live/cplusmx4565Ag/ZqnyQLCjJ33e/46633.m3u8
+
