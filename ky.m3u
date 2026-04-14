@@ -92,10 +92,6 @@ https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8
 #EXTVLCOPT:network-caching=1000
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="I223.110960.schedulesdirect.org" tvg-name="Discovery science" tvg-chno="421" tvg-logo="https://i.imgur.com/LDeatSA.png" group-title="Mundo y Cultura", Discovery science
-#EXTVLCOPT:network-caching=1000
-https://astra.fibernetisp.com.co/play/a0m2/index.m3u8
-
 #EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="COMBATV" tvg-chno="544" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1240427-8c.png" group-title="Deportes", COMBATV
 #EXTVLCOPT:network-caching=1000
 https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8
