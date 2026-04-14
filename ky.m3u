@@ -96,10 +96,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 #EXTVLCOPT:network-caching=1000
 https://astra.fibernetisp.com.co/play/a0m2/index.m3u8
 
-#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="BASKET AMERICA TV" tvg-chno="542" tvg-logo="https://i.imgur.com/SNjfVu6.png" group-title="Deportes", BASKET AMERICA TV
-#EXTVLCOPT:network-caching=1000
-https://archive.org/download/vid_s_720p/vid_s_720p.mp4
-
 #EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="COMBATV" tvg-chno="544" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1240427-8c.png" group-title="Deportes", COMBATV
 #EXTVLCOPT:network-caching=1000
 https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8
@@ -107,10 +103,6 @@ https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8
 #EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="ITV deportes" tvg-chno="545" tvg-logo="https://www.izzigo.tv/images/repository/708/18043708-LOGO-m.png" group-title="Deportes", ITV deportes
 #EXTVLCOPT:network-caching=1000
 https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
-
-#EXTINF:-1 tvg-id="I448.67632.schedulesdirect.org" tvg-name="MÉXICO Al Aire Libre" tvg-chno="547" tvg-logo="https://www.izzigo.tv/images/repository/164/18190164-LOGO-m.png" group-title="Deportes", MÉXICO Al Aire Libre
-#EXTVLCOPT:network-caching=1000
-https://archive.org/download/vid_s_720p/vid_s_720p.mp4
 
 #EXTINF:-1 tvg-id="I89.34863.schedulesdirect.org" tvg-name="AYM Sports" tvg-chno="565" tvg-logo="https://i.imgur.com/ftoxCQu.png" group-title="Deportes", AYM Sports ᴴᴰ
 #EXTVLCOPT:network-caching=1000
