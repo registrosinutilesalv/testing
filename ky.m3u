@@ -92,10 +92,6 @@ https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8
 #EXTVLCOPT:network-caching=1000
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="edye TV" tvg-chno="326" tvg-logo="https://www.izzigo.tv/images/repository/709/18043709-LOGO-m.png" group-title="Niños", edye TV
-#EXTVLCOPT:network-caching=1000
-https://archive.org/download/vid_s_720p/vid_s_720p.mp4
-
 #EXTINF:-1 tvg-id="I223.110960.schedulesdirect.org" tvg-name="Discovery science" tvg-chno="421" tvg-logo="https://i.imgur.com/LDeatSA.png" group-title="Mundo y Cultura", Discovery science
 #EXTVLCOPT:network-caching=1000
 https://astra.fibernetisp.com.co/play/a0m2/index.m3u8
