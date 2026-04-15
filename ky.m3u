@@ -228,7 +228,9 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTVLCOPT:network-caching=1000
 https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
 
-
+#EXTINF:-1 tvg-id="I99.46607.schedulesdirect.org" tvg-name="azteca uno-1" tvg-chno="135" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1110838-8c.png" group-title="Abierta", azteca uno-1
+#EXTVLCOPT:network-caching=1000
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 
 
 
