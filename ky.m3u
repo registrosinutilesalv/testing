@@ -240,7 +240,13 @@ https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/a
 #EXTVLCOPT:network-caching=1000
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16333
 
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="Garage Tv" tvg-chno="269" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1094353-8c.png" group-title="Entretenimiento", Garage Tv
+#EXTVLCOPT:network-caching=1000
+https://stream1.sersat.com/hls/garagetv.m3u8
 
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="Telemax" tvg-chno="270" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1212292-8c.png" group-title="Entretenimiento", Telemax
+#EXTVLCOPT:network-caching=1000
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8#t=0.1
 
 
 
