@@ -268,10 +268,6 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I694.45710.schedulesdirect.org" tvg-name="Telesecundaria" tvg-chno="397" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1128043-8c.png" group-title="Mundo y Cultura", Telesecundaria
-#EXTVLCOPT:network-caching=1000
-https://stream.aprende.gob.mx/telesecundaria_1/hls/index.m3u8
-
 #EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="MX NUESTRO CINE" tvg-chno="497" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1048602-8c.png" group-title="Cine", MX NUESTRO CINE
 #EXTVLCOPT:network-caching=1000 
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/chunklist_w1580908101_b1428000_sleng.m3u8
