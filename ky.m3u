@@ -248,6 +248,70 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTVLCOPT:network-caching=1000
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8#t=0.1
 
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="travelxp ⁴ᴷ" tvg-chno="385" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1178150-8c.png" group-title="Mundo y Cultura", travelxp ⁴ᴷ
+#EXTVLCOPT:network-caching=1000
+https://travelxp-travelxp-5-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="I310.16350.schedulesdirect.org" tvg-name="EWTN" tvg-chno="388" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416623-8c.png" group-title="Mundo y Cultura", EWTN
+#EXTVLCOPT:network-caching=1000
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/480/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="DAYSTAR Español" tvg-chno="389" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1266622-8c.png" group-title="Mundo y Cultura", DAYSTAR Español
+#EXTVLCOPT:network-caching=1000
+https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8?ads.vf=58GrEFelNTK
+
+#EXTINF:-1 tvg-id="I462.110114.schedulesdirect.org" tvg-name="MARÍA VISIÓN" tvg-chno="390" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416625-8c.png" group-title="Mundo y Cultura", MARÍA VISIÓN
+#EXTVLCOPT:network-caching=1000
+https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/playlist.m3u8
+
+#EXTINF:-1 tvg-id="I303.33527.schedulesdirect.org" tvg-name="enlace" tvg-chno="391" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416627-8c.png" group-title="Mundo y Cultura", enlace
+#EXTVLCOPT:network-caching=1000
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
