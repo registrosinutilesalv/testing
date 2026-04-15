@@ -332,10 +332,6 @@ https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8#t=0.1
 #EXTVLCOPT:network-caching=1000
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8#t=0.1
 
-#EXTINF:-1 tvg-id="I733.16217.schedulesdirect.org" tvg-name="tve" tvg-chno="651" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518651-8c.png" group-title="Más canales", tve
-#EXTVLCOPT:network-caching=1000
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
-
 #EXTINF:-1 tvg-id="I588.106724.schedulesdirect.org" tvg-name="star tve ᴴᴰ" tvg-chno="658" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425427-8c.png" group-title="Más canales", star tve ᴴᴰ
 #EXTVLCOPT:network-caching=1000
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8
