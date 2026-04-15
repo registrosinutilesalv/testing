@@ -299,21 +299,32 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="I305.40704.schedulesdirect.org" tvg-name="euro news. español" tvg-chno="615" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1181418-8c.png" group-title="Noticias", euro news. español
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8?ads.vf=DLlKFAN37a8
 
-#EXTINF:-1 tvg-id="I192.27773.schedulesdirect.org" tvg-name="CNN EN ESPAÑOL" tvg-chno="627" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531193-8c.png" group-title="Noticias", CNN EN ESPAÑOL
-https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
+#EXTINF:-1 tvg-id="I348.105781.schedulesdirect.org" tvg-name="FRANCE 24 español" tvg-chno="628" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425437-8c.png" group-title="Noticias", FRANCE 24 español
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="PLURAL TV" tvg-chno="639" tvg-logo="http://imgfz.com/i/3N2VnXY.png" group-title="Noticias", PLURAL TV
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 
+#EXTINF:-1 tvg-id="I361.17672.schedulesdirect.org" tvg-name="TELEVISIÓN DE GALICIA" tvg-chno="653" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425414-8c.png" group-title="Internacionales", TELEVISIÓN DE GALICIA
+https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8
 
+#EXTINF:-1 tvg-id="I156.44479.schedulesdirect.org" tvg-name="CGTN ESPAÑOL" tvg-chno="660" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425431-8c.png" group-title="Internacionales", CGTN ESPAÑOL
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="MUSIC TOP" tvg-chno="705" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1207849-8c.png" group-title="Música", MUSIC TOP
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8#t=0.1
 
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="LATINA TV" tvg-chno="715" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1208027-8c.png" group-title="Música", LATINA TV
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8#t=0.1
 
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-chno="716" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1207834-8c.png" group-title="Música", TIERRAMIA TV
+https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8#t=0.1
 
+#EXTINF:-1 tvg-id="I733.16217.schedulesdirect.org" tvg-name="tve" tvg-chno="651" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518651-8c.png" group-title="Más canales", tve
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 
-
-
-
-
-
+#EXTINF:-1 tvg-id="I588.106724.schedulesdirect.org" tvg-name="star tve ᴴᴰ" tvg-chno="658" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425427-8c.png" group-title="Más canales", star tve ᴴᴰ
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8
 
 
 
