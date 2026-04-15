@@ -53,22 +53,6 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTVLCOPT:network-caching=1000
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
-#EXTINF:-1 tvg-id="I360.16374.schedulesdirect.org" tvg-name="FOX NEWS" tvg-chno="180" tvg-logo="https://www.izzigo.tv/images/repository/061/257061-LOGO-m.png" group-title="Noticias", FOX NEWS ᴴᴰ
-#EXTVLCOPT:network-caching=1000
-https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="I23.111165.schedulesdirect.org" tvg-name="Al Jazeera" tvg-chno="182" tvg-logo="https://www.izzigo.tv/images/repository/618/7365618-LOGO-m.png" group-title="Noticias", Al Jazeera
-#EXTVLCOPT:network-caching=1000
-https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-
-#EXTINF:-1 tvg-id="I111.89542.schedulesdirect.org" tvg-name="BBC NEWS" tvg-chno="185" tvg-logo="https://www.izzigo.tv/images/repository/159/13824159-LOGO-m.png" group-title="Noticias", BBC NEWS
-#EXTVLCOPT:network-caching=1000
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-
-#EXTINF:-1 tvg-id="I1049.16234.schedulesdirect.org" tvg-name="sky news" tvg-chno="198" tvg-logo="https://i.imgur.com/5gSJduJ.png" group-title="Noticias", sky news
-#EXTVLCOPT:network-caching=1000
-https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/master.m3u8?
-
 #EXTINF:-1 tvg-id="I733.16217.schedulesdirect.org" tvg-name="tve" tvg-chno="230" tvg-logo="https://www.izzigo.tv/images/repository/141/6723141-LOGO-m.png" group-title="Entretenimiento", tve
 #EXTVLCOPT:network-caching=1000
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
@@ -80,10 +64,6 @@ https://s5.mexside.net:1936/tvmigrante/tvmigrante/chunklist.m3u8
 #EXTINF:-1 tvg-id="I512.19733.schedulesdirect.org" tvg-name="NHK WORLD PREMIUM" tvg-chno="274" tvg-logo="https://i.imgur.com/X8bdz8q.png" group-title="Mundo y Cultura", NHK WORLD JAPAN
 #EXTVLCOPT:network-caching=1000
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
-
-#EXTINF:-1 tvg-id="I727.16422.schedulesdirect.org" tvg-name="TV5MONDE" tvg-chno="278" tvg-logo="https://www.izzigo.tv/images/repository/030/16780030-LOGO-m.png" group-title="Mundo y Cultura", TV5 MONDE
-#EXTVLCOPT:network-caching=1000
-https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8
 
 #EXTINF:-1 tvg-id="I361.17672.schedulesdirect.org" tvg-name="TELEVISIÓN DE GALICIA" tvg-chno="279" tvg-logo="https://www.izzigo.tv/images/repository/876/256876-LOGO-m.png" group-title="Mundo y Cultura", TELEVISIÓN DE GALICIA
 https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8
