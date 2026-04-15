@@ -61,10 +61,6 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 #EXTVLCOPT:network-caching=1000
 https://s5.mexside.net:1936/tvmigrante/tvmigrante/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="I512.19733.schedulesdirect.org" tvg-name="NHK WORLD PREMIUM" tvg-chno="274" tvg-logo="https://i.imgur.com/X8bdz8q.png" group-title="Mundo y Cultura", NHK WORLD JAPAN
-#EXTVLCOPT:network-caching=1000
-https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
-
 #EXTINF:-1 tvg-id="I361.17672.schedulesdirect.org" tvg-name="TELEVISIÓN DE GALICIA" tvg-chno="279" tvg-logo="https://www.izzigo.tv/images/repository/876/256876-LOGO-m.png" group-title="Mundo y Cultura", TELEVISIÓN DE GALICIA
 https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8
 
