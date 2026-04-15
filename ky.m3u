@@ -326,7 +326,17 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 #EXTINF:-1 tvg-id="I588.106724.schedulesdirect.org" tvg-name="star tve ᴴᴰ" tvg-chno="658" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425427-8c.png" group-title="Más canales", star tve ᴴᴰ
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8
 
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="Audio", that's 70's
+https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
 
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="Audio", that's 80's
+https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-logo="http://imgfz.com/i/jQV5pcJ.png" group-title="Audio", that's 90's 00's
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="Audio", that's ROCK
+https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 
 
 
