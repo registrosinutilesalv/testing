@@ -236,7 +236,9 @@ https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3
 #EXTVLCOPT:network-caching=1000
 https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="POPCORN CENTRAL" tvg-chno="260" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="Entretenimiento", POPCORN CENTRAL
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16333
 
 
 
