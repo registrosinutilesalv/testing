@@ -284,18 +284,6 @@ https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 #EXTVLCOPT:network-caching=1000
 https://apollo.production-public.tubi.io/live/azteca-deportes-network-ootAAI.m3u8
 
-#EXTINF:-1 tvg-id="I89.34863.schedulesdirect.org" tvg-name="AYM Sports ᴴᴰ" tvg-chno="576" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/604408-8c.png" group-title="Deporte Total", AYM Sports ᴴᴰ
-#EXTVLCOPT:network-caching=1000
-https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
-
-#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="COMBATV" tvg-chno="579" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1240427-8c.png" group-title="Deporte Total", COMBATV
-#EXTVLCOPT:network-caching=1000
-https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8
-
-#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="ITV deportes" tvg-chno="581" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1240371-8c.png" group-title="Deporte Total", ITV deportes
-#EXTVLCOPT:network-caching=1000
-https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
-
 #EXTINF:-1 tvg-id="I566.69367.schedulesdirect.org" tvg-name="RT SPANISH" tvg-chno="613" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425396-8c.png" group-title="Noticias", RT SPANISH
 #EXTVLCOPT:network-caching=1000
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
