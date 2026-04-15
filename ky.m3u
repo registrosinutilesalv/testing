@@ -224,7 +224,9 @@ https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u
 #EXTVLCOPT:network-caching=1000
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-
+#EXTINF:-1 tvg-id="I202.61404.schedulesdirect.org" tvg-name="corazón" tvg-chno="112" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1083007-8c.png" group-title="Abierta", corazón
+#EXTVLCOPT:network-caching=1000
+https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
 
 
 
