@@ -1,9 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://www.open-epg.com/files/mexico2.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
 
-#EXTINF:-1 tvg-id="I279.45910.schedulesdirect.org" tvg-name="elGourmet" tvg-chno="227" tvg-logo="https://www.izzigo.tv/images/repository/332/14327332-LOGO-m.png" group-title="Entretenimiento", elGourmet
-#EXTVLCOPT:network-caching=1000
-http://45.5.119.43:4000/play/a04v/index.m3u8
-
 #EXTINF:-1 tvg-id="I432.101096.schedulesdirect.org" tvg-name="IMAGEN TELEVISIÓN" tvg-chno="3" tvg-logo="https://www.izzigo.tv/images/repository/499/7302499-LOGO-m.png" group-title="TV Nacional", IMAGEN TELEVISIÓN
 #EXTVLCOPT:network-caching=1000
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
