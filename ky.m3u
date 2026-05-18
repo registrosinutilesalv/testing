@@ -28,6 +28,10 @@ https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834
 #EXTVLCOPT:network-caching=1000
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="MasterChef 24/7" tvg-chno="285" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/263fdb7/2147483647/strip/true/crop/601x478+0+0/resize/604x480!/format/webp/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F01%2Fbf%2Fd5291d104a2091433b3e6346a68b%2Fe-b-manos-ott-logo-mc-1920x1080-1.png" group-title="TV Nacional", MasterChef 24/7
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/69f3bde44a6aa2a6ccaf1b38.m3u8
+
 #EXTINF:-1 tvg-id="I449.16461.schedulesdirect.org" tvg-name="las estrellas" tvg-chno="102" tvg-logo="https://www.izzigo.tv/images/repository/248/9281248-LOGO-m.png" group-title="TV Nacional", las estrellas
 #EXTVLCOPT:network-caching=1000
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
