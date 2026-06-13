@@ -1,5 +1,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://www.open-epg.com/files/mexico2.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
 
+#EXTINF:-1 tvg-id="I432.101096.schedulesdirect.org" tvg-name="E!" tvg-chno="3" tvg-logo="https://www.izzigo.tv/images/repository/499/7302499-LOGO-m.png" group-title="TV Nacional", E!
+#EXTVLCOPT:network-caching=1000
+https://tinyurl.com/2th82err
+
 #EXTINF:-1 tvg-id="I432.101096.schedulesdirect.org" tvg-name="IMAGEN TELEVISIÓN" tvg-chno="3" tvg-logo="https://www.izzigo.tv/images/repository/499/7302499-LOGO-m.png" group-title="TV Nacional", IMAGEN TELEVISIÓN
 #EXTVLCOPT:network-caching=1000
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
