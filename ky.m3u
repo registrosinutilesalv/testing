@@ -32,6 +32,14 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTVLCOPT:network-caching=1000
 https://mdstrm.com/live-stream-playlist/69f3bde44a6aa2a6ccaf1b38.m3u8
 
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="Canal VIX"" tvg-chno="285" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/263fdb7/2147483647/strip/true/crop/601x478+0+0/resize/604x480!/format/webp/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F01%2Fbf%2Fd5291d104a2091433b3e6346a68b%2Fe-b-manos-ott-logo-mc-1920x1080-1.png" group-title="TV Nacional", Canal VIX
+#EXTVLCOPT:network-caching=1000
+https://d36vag51su2f9u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rjlh25phsoano/server/distrib/7GnqnNT9v6Prt6lj/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqiM6VVMAQRZ3BajxAKTNLztc3UzxLEvwclMk_xuZaPti2iQdDj7x8B9VIacgVxB6nPh8e9-_CaBQXtdfGZ-hf5fbtm5YEJTk8bxZMjA7NHu0J1zj4SG_9elXTTj4sJ5PP8hj9EcpM_08XHwoobu1NQTtftlO8dfbnTpEQrG7AlU7Z82dozEUrKZJxDjrjsMtug/manifest.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="https://images.pluto.tv/channels/62d0895ebe7a970008785244/thumbnail.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=2&q=50?worldtv2"" tvg-chno="285" tvg-logo="https://images.pluto.tv/channels/62d0895ebe7a970008785244/thumbnail.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=2&q=50?worldtv2" group-title="TV Nacional", https://images.pluto.tv/channels/62d0895ebe7a970008785244/thumbnail.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=2&q=50?worldtv2
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62d0895ebe7a970008785244.m3u8
+
 #EXTINF:-1 tvg-id="I449.16461.schedulesdirect.org" tvg-name="las estrellas" tvg-chno="102" tvg-logo="https://www.izzigo.tv/images/repository/248/9281248-LOGO-m.png" group-title="TV Nacional", las estrellas
 #EXTVLCOPT:network-caching=1000
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
@@ -56,20 +64,53 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTVLCOPT:network-caching=1000
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
-#EXTINF:-1 tvg-id="I733.16217.schedulesdirect.org" tvg-name="tve" tvg-chno="230" tvg-logo="https://www.izzigo.tv/images/repository/141/6723141-LOGO-m.png" group-title="Entretenimiento", tve
-#EXTVLCOPT:network-caching=1000
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
-
 #EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="tv migrante" tvg-chno="266" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1248206-8c.png" group-title="Mundo y Cultura", tv migrante
 #EXTVLCOPT:network-caching=1000
 https://s5.mexside.net:1936/tvmigrante/tvmigrante/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="I361.17672.schedulesdirect.org" tvg-name="TELEVISIÓN DE GALICIA" tvg-chno="279" tvg-logo="https://www.izzigo.tv/images/repository/876/256876-LOGO-m.png" group-title="Mundo y Cultura", TELEVISIÓN DE GALICIA
-https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-id="I273.64230.schedulesdirect.org" tvg-name="DW Español" tvg-chno="281" tvg-logo="https://www.izzigo.tv/images/repository/154/6975154-LOGO-m.png" group-title="Mundo y Cultura", DW Español
+#EXTINF:-1 tvg-id="I5.104892.schedulesdirect.org" tvg-name="a más+" tvg-chno="41" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/605535-8c.png" group-title="Abierta", a más+
 #EXTVLCOPT:network-caching=1000
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
+#EXTINF:-1 tvg-id="I202.61404.schedulesdirect.org" tvg-name="corazón" tvg-chno="112" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1083007-8c.png" group-title="Abierta", corazón
+#EXTVLCOPT:network-caching=1000
+https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
+
+#EXTINF:-1 tvg-id="I99.46607.schedulesdirect.org" tvg-name="azteca uno-1" tvg-chno="135" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1110838-8c.png" group-title="Abierta", azteca uno-1
+#EXTVLCOPT:network-caching=1000
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="KANAL D DRAMA" tvg-chno="252" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1181903-8c.png" group-title="Entretenimiento", KANAL D DRAMA
+#EXTVLCOPT:network-caching=1000
+https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="POPCORN CENTRAL" tvg-chno="260" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="Entretenimiento", POPCORN CENTRAL
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16333
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="MX NUESTRO CINE" tvg-chno="497" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1048602-8c.png" group-title="Cine", MX NUESTRO CINE
+#EXTVLCOPT:network-caching=1000 
+https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/chunklist_w1580908101_b1428000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="I181.72291.schedulesdirect.org" tvg-name="Canal Claro" tvg-chno="521" tvg-logo="https://images.pluto.tv/channels/68224482c5d53e1351aaf2f2/thumbnail.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=2&q=50" group-title="Deporte Total", Canal Claro
+#EXTVLCOPT:network-caching=1000 
+https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
+
+#EXTINF:-1 tvg-id="I181.72291.schedulesdirect.org" tvg-name="Claro sports" tvg-chno="521" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1157139-8c.png" group-title="Deporte Total", Claro sports
+#EXTVLCOPT:network-caching=1000 
+https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="tv azteca deportes" tvg-chno="525" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1085179-8c.png" group-title="Deporte Total", tv azteca deportes
+#EXTVLCOPT:network-caching=1000
+https://apollo.production-public.tubi.io/live/azteca-deportes-network-ootAAI.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="PLURAL TV" tvg-chno="639" tvg-logo="http://imgfz.com/i/3N2VnXY.png" group-title="Noticias", PLURAL TV
+#EXTVLCOPT:network-caching=1000
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
+
+#EXTINF:-1 tvg-id="I156.44479.schedulesdirect.org" tvg-name="CGTN ESPAÑOL" tvg-chno="660" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425431-8c.png" group-title="Internacionales", CGTN ESPAÑOL
+#EXTVLCOPT:network-caching=1000
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="COMBATV" tvg-chno="544" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1240427-8c.png" group-title="Deportes", COMBATV
 #EXTVLCOPT:network-caching=1000
@@ -83,17 +124,80 @@ https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
 #EXTVLCOPT:network-caching=1000
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 
-#EXTINF:-1 tvg-id="USBD350002623" tvg-name="Classica" tvg-chno="708" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425477-8c.png" group-title="Música", Classica
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="travelxp ⁴ᴷ" tvg-chno="385" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1178150-8c.png" group-title="Mundo y Cultura", travelxp ⁴ᴷ
 #EXTVLCOPT:network-caching=1000
-https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+https://travelxp-travelxp-5-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="LOVE NATURE en Español" tvg-chno="385" tvg-logo="https://i.postimg.cc/xdbVDrtG/love-nature-en-espanol.png" group-title="Mundo y Cultura", LOVE NATURE en Español
+#EXTVLCOPT:network-caching=1000
+https://cors-proxy.cooks.fyi:443/https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="Vive Kanal D Drama" tvg-chno="385" tvg-logo="https://i.postimg.cc/TwYJ6M5L/vivekddrama.webp" group-title="Mundo y Cultura", Vive Kanal D Drama
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u
+
+#EXTINF:-1 tvg-id="I733.16217.schedulesdirect.org" tvg-name="tve" tvg-chno="230" tvg-logo="https://www.izzigo.tv/images/repository/141/6723141-LOGO-m.png" group-title="Entretenimiento", tve
+#EXTVLCOPT:network-caching=1000
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+
+#EXTINF:-1 tvg-id="I588.106724.schedulesdirect.org" tvg-name="star tve ᴴᴰ" tvg-chno="658" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425427-8c.png" group-title="Más canales", star tve ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8
+
+#EXTINF:-1 tvg-id="I361.17672.schedulesdirect.org" tvg-name="TELEVISIÓN DE GALICIA" tvg-chno="279" tvg-logo="https://www.izzigo.tv/images/repository/876/256876-LOGO-m.png" group-title="Mundo y Cultura", TELEVISIÓN DE GALICIA
+https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="I273.64230.schedulesdirect.org" tvg-name="DW Español" tvg-chno="281" tvg-logo="https://www.izzigo.tv/images/repository/154/6975154-LOGO-m.png" group-title="Mundo y Cultura", DW Español
+#EXTVLCOPT:network-caching=1000
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="clan" tvg-chno="878" tvg-logo="https://www.izzigo.tv/images/repository/074/8896074-LOGO-m.png" group-title="Niños", clan
+#EXTVLCOPT:network-caching=1000
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="Garage Tv" tvg-chno="269" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1094353-8c.png" group-title="Entretenimiento", Garage Tv
+#EXTVLCOPT:network-caching=1000
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="Telemax" tvg-chno="270" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1212292-8c.png" group-title="Entretenimiento", Telemax
+#EXTVLCOPT:network-caching=1000
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8#t=0.1
+
+#EXTINF:-1 tvg-id="I566.69367.schedulesdirect.org" tvg-name="RT SPANISH" tvg-chno="613" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425396-8c.png" group-title="Noticias", RT SPANISH
+#EXTVLCOPT:network-caching=1000
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="I305.40704.schedulesdirect.org" tvg-name="euro news. español" tvg-chno="615" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1181418-8c.png" group-title="Noticias", euro news. español
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8?ads.vf=DLlKFAN37a8
+
+#EXTINF:-1 tvg-id="I348.105781.schedulesdirect.org" tvg-name="FRANCE 24 español" tvg-chno="628" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425437-8c.png" group-title="Noticias", FRANCE 24 español
+#EXTVLCOPT:network-caching=1000
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-id="I310.16350.schedulesdirect.org" tvg-name="EWTN" tvg-chno="388" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416623-8c.png" group-title="Mundo y Cultura", EWTN
+#EXTVLCOPT:network-caching=1000
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/480/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="DAYSTAR Español" tvg-chno="389" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1266622-8c.png" group-title="Mundo y Cultura", DAYSTAR Español
+#EXTVLCOPT:network-caching=1000
+https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8?ads.vf=58GrEFelNTK
+
+#EXTINF:-1 tvg-id="I462.110114.schedulesdirect.org" tvg-name="MARÍA VISIÓN" tvg-chno="390" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416625-8c.png" group-title="Mundo y Cultura", MARÍA VISIÓN
+#EXTVLCOPT:network-caching=1000
+https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/playlist.m3u8
+
+#EXTINF:-1 tvg-id="I303.33527.schedulesdirect.org" tvg-name="enlace" tvg-chno="391" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416627-8c.png" group-title="Mundo y Cultura", enlace
+#EXTVLCOPT:network-caching=1000
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I193.58646.schedulesdirect.org" tvg-name="CNN ᴴᴰ" tvg-chno="816" tvg-logo="https://www.izzigo.tv/images/repository/060/257060-LOGO-m.png" group-title="Noticias", CNN ᴴᴰ
 #EXTVLCOPT:network-caching=1000
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="clan" tvg-chno="878" tvg-logo="https://www.izzigo.tv/images/repository/074/8896074-LOGO-m.png" group-title="Niños", clan
+#EXTINF:-1 tvg-id="USBD350002623" tvg-name="Classica" tvg-chno="708" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425477-8c.png" group-title="Música", Classica
 #EXTVLCOPT:network-caching=1000
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1 tvg-id="USBD3500024YB" tvg-name="Qello CONCERTS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/528505-8c.png" group-title="Audio", Qello CONCERTS
 #EXTVLCOPT:network-caching=1000
@@ -199,86 +303,6 @@ https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u
 #EXTVLCOPT:network-caching=1000
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="I5.104892.schedulesdirect.org" tvg-name="a más+" tvg-chno="41" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/605535-8c.png" group-title="Abierta", a más+
-#EXTVLCOPT:network-caching=1000
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-
-#EXTINF:-1 tvg-id="I202.61404.schedulesdirect.org" tvg-name="corazón" tvg-chno="112" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1083007-8c.png" group-title="Abierta", corazón
-#EXTVLCOPT:network-caching=1000
-https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
-
-#EXTINF:-1 tvg-id="I99.46607.schedulesdirect.org" tvg-name="azteca uno-1" tvg-chno="135" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1110838-8c.png" group-title="Abierta", azteca uno-1
-#EXTVLCOPT:network-caching=1000
-https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
-
-#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="KANAL D DRAMA" tvg-chno="252" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1181903-8c.png" group-title="Entretenimiento", KANAL D DRAMA
-#EXTVLCOPT:network-caching=1000
-https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-
-#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="POPCORN CENTRAL" tvg-chno="260" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1182484-8c.png" group-title="Entretenimiento", POPCORN CENTRAL
-#EXTVLCOPT:network-caching=1000
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16333
-
-#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="Garage Tv" tvg-chno="269" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1094353-8c.png" group-title="Entretenimiento", Garage Tv
-#EXTVLCOPT:network-caching=1000
-https://stream1.sersat.com/hls/garagetv.m3u8
-
-#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="Telemax" tvg-chno="270" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1212292-8c.png" group-title="Entretenimiento", Telemax
-#EXTVLCOPT:network-caching=1000
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8#t=0.1
-
-#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="travelxp ⁴ᴷ" tvg-chno="385" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1178150-8c.png" group-title="Mundo y Cultura", travelxp ⁴ᴷ
-#EXTVLCOPT:network-caching=1000
-https://travelxp-travelxp-5-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="I310.16350.schedulesdirect.org" tvg-name="EWTN" tvg-chno="388" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416623-8c.png" group-title="Mundo y Cultura", EWTN
-#EXTVLCOPT:network-caching=1000
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/480/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="DAYSTAR Español" tvg-chno="389" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1266622-8c.png" group-title="Mundo y Cultura", DAYSTAR Español
-#EXTVLCOPT:network-caching=1000
-https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8?ads.vf=58GrEFelNTK
-
-#EXTINF:-1 tvg-id="I462.110114.schedulesdirect.org" tvg-name="MARÍA VISIÓN" tvg-chno="390" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416625-8c.png" group-title="Mundo y Cultura", MARÍA VISIÓN
-#EXTVLCOPT:network-caching=1000
-https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/playlist.m3u8
-
-#EXTINF:-1 tvg-id="I303.33527.schedulesdirect.org" tvg-name="enlace" tvg-chno="391" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416627-8c.png" group-title="Mundo y Cultura", enlace
-#EXTVLCOPT:network-caching=1000
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="MX NUESTRO CINE" tvg-chno="497" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1048602-8c.png" group-title="Cine", MX NUESTRO CINE
-#EXTVLCOPT:network-caching=1000 
-https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/chunklist_w1580908101_b1428000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="I181.72291.schedulesdirect.org" tvg-name="Claro sports" tvg-chno="521" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1157139-8c.png" group-title="Deporte Total", Claro sports
-#EXTVLCOPT:network-caching=1000 
-https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
-
-#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="tv azteca deportes" tvg-chno="525" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1085179-8c.png" group-title="Deporte Total", tv azteca deportes
-#EXTVLCOPT:network-caching=1000
-https://apollo.production-public.tubi.io/live/azteca-deportes-network-ootAAI.m3u8
-
-#EXTINF:-1 tvg-id="I566.69367.schedulesdirect.org" tvg-name="RT SPANISH" tvg-chno="613" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425396-8c.png" group-title="Noticias", RT SPANISH
-#EXTVLCOPT:network-caching=1000
-https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="I305.40704.schedulesdirect.org" tvg-name="euro news. español" tvg-chno="615" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1181418-8c.png" group-title="Noticias", euro news. español
-#EXTVLCOPT:network-caching=1000
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8?ads.vf=DLlKFAN37a8
-
-#EXTINF:-1 tvg-id="I348.105781.schedulesdirect.org" tvg-name="FRANCE 24 español" tvg-chno="628" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425437-8c.png" group-title="Noticias", FRANCE 24 español
-#EXTVLCOPT:network-caching=1000
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-
-#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="PLURAL TV" tvg-chno="639" tvg-logo="http://imgfz.com/i/3N2VnXY.png" group-title="Noticias", PLURAL TV
-#EXTVLCOPT:network-caching=1000
-https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
-
-#EXTINF:-1 tvg-id="I156.44479.schedulesdirect.org" tvg-name="CGTN ESPAÑOL" tvg-chno="660" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425431-8c.png" group-title="Internacionales", CGTN ESPAÑOL
-#EXTVLCOPT:network-caching=1000
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="MUSIC TOP" tvg-chno="705" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1207849-8c.png" group-title="Música", MUSIC TOP
 #EXTVLCOPT:network-caching=1000
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8#t=0.1
@@ -290,10 +314,6 @@ https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8#t=0.1
 #EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-chno="716" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1207834-8c.png" group-title="Música", TIERRAMIA TV
 #EXTVLCOPT:network-caching=1000
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8#t=0.1
-
-#EXTINF:-1 tvg-id="I588.106724.schedulesdirect.org" tvg-name="star tve ᴴᴰ" tvg-chno="658" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425427-8c.png" group-title="Más canales", star tve ᴴᴰ
-#EXTVLCOPT:network-caching=1000
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8
 
 #EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="Audio", that's 70's
 #EXTVLCOPT:network-caching=1000
