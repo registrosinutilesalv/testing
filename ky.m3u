@@ -1,9 +1,48 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://www.open-epg.com/files/mexico2.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
 
-#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="0000" tvg-chno="0000" tvg-logo="https://www.izzigo.tv/images/repository/766/10926766-POSTER-m.jpg" group-title="TV TEST", MasterChef 24/7
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="0000" tvg-chno="0000" tvg-logo="https://www.izzigo.tv/images/repository/766/10926766-POSTER-m.jpg" group-title="TV TEST", MUNDIAL 2
 #EXTVLCOPT:network-caching=1000
 https://s2.bufaloweb.com/bufalo10/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="0000" tvg-chno="0000" tvg-logo="https://www.izzigo.tv/images/repository/766/10926766-POSTER-m.jpg" group-title="TV TEST", MUNDIAL +
+#EXTVLCOPT:network-caching=1000
+https://s2.bufaloweb.com/bufalo11/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="0000" tvg-chno="0000" tvg-logo="https://www.izzigo.tv/images/repository/766/10926766-POSTER-m.jpg" group-title="TV TEST", ESPN 7
+#EXTVLCOPT:network-caching=1000
+https://s2.bufaloweb.com/bufalo12/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="0000" tvg-chno="0000" tvg-logo="https://www.izzigo.tv/images/repository/766/10926766-POSTER-m.jpg" group-title="TV TEST", TyC Sports
+#EXTVLCOPT:network-caching=1000
+https://s2.bufaloweb.com/bufalo13/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="0000" tvg-chno="0000" tvg-logo="https://www.izzigo.tv/images/repository/766/10926766-POSTER-m.jpg" group-title="TV TEST", NBA TV
+#EXTVLCOPT:network-caching=1000
+https://s2.bufaloweb.com/bufalo14/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="0000" tvg-chno="0000" tvg-logo="https://www.izzigo.tv/images/repository/766/10926766-POSTER-m.jpg" group-title="TV TEST", FILME
+#EXTVLCOPT:network-caching=1000
+https://s2.bufaloweb.com/bufalo15/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="0000" tvg-chno="0000" tvg-logo="https://www.izzigo.tv/images/repository/766/10926766-POSTER-m.jpg" group-title="TV TEST", HBO family
+#EXTVLCOPT:network-caching=1000
+https://s2.bufaloweb.com/bufalo16/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="0000" tvg-chno="0000" tvg-logo="https://www.izzigo.tv/images/repository/766/10926766-POSTER-m.jpg" group-title="TV TEST", SPACE
+#EXTVLCOPT:network-caching=1000
+https://s2.bufaloweb.com/bufalo17/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="0000" tvg-chno="0000" tvg-logo="https://www.izzigo.tv/images/repository/766/10926766-POSTER-m.jpg" group-title="TV TEST", TNT
+#EXTVLCOPT:network-caching=1000
+https://s2.bufaloweb.com/bufalo18/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="0000" tvg-chno="0000" tvg-logo="https://www.izzigo.tv/images/repository/766/10926766-POSTER-m.jpg" group-title="TV TEST", Disney Jr.
+#EXTVLCOPT:network-caching=1000
+https://s2.bufaloweb.com/bufalo19/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="0000" tvg-chno="0000" tvg-logo="https://www.izzigo.tv/images/repository/766/10926766-POSTER-m.jpg" group-title="TV TEST", nickelodeon
+#EXTVLCOPT:network-caching=1000
+https://s2.bufaloweb.com/bufalo20/tracks-v1a1/mono.ts.m3u8
 
 
 
