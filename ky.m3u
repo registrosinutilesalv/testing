@@ -20,7 +20,7 @@ https://s2.bufaloweb.com/bufalo13/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:network-caching=1000
 https://s2.bufaloweb.com/bufalo14/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="0000" tvg-chno="0000" tvg-logo="https://www.izzigo.tv/images/repository/766/10926766-POSTER-m.jpg" group-title="TV TEST", FILME
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="0000" tvg-chno="0000" tvg-logo="https://www.izzigo.tv/images/repository/766/10926766-POSTER-m.jpg" group-title="TV TEST", HBO
 #EXTVLCOPT:network-caching=1000
 https://s2.bufaloweb.com/bufalo15/tracks-v1a1/mono.ts.m3u8
 
@@ -43,6 +43,40 @@ https://s2.bufaloweb.com/bufalo19/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="0000" tvg-chno="0000" tvg-logo="https://www.izzigo.tv/images/repository/766/10926766-POSTER-m.jpg" group-title="TV TEST", nickelodeon
 #EXTVLCOPT:network-caching=1000
 https://s2.bufaloweb.com/bufalo20/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="0000" tvg-chno="0000" tvg-logo="https://www.izzigo.tv/images/repository/766/10926766-POSTER-m.jpg" group-title="TV TEST", Discovery kids
+#EXTVLCOPT:network-caching=1000
+https://s2.bufaloweb.com/bufalo21/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="0000" tvg-chno="0000" tvg-logo="https://www.izzigo.tv/images/repository/766/10926766-POSTER-m.jpg" group-title="TV TEST", caracol
+#EXTVLCOPT:network-caching=1000
+https://s2.bufaloweb.com/bufalo22/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="0000" tvg-chno="0000" tvg-logo="https://www.izzigo.tv/images/repository/766/10926766-POSTER-m.jpg" group-title="TV TEST", RCN
+#EXTVLCOPT:network-caching=1000
+https://s2.bufaloweb.com/bufalo23/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="0000" tvg-chno="0000" tvg-logo="https://www.izzigo.tv/images/repository/766/10926766-POSTER-m.jpg" group-title="TV TEST", Discovery
+#EXTVLCOPT:network-caching=1000
+https://s2.bufaloweb.com/bufalo24/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="0000" tvg-chno="0000" tvg-logo="https://www.izzigo.tv/images/repository/766/10926766-POSTER-m.jpg" group-title="TV TEST", Comedy Central
+#EXTVLCOPT:network-caching=1000
+https://s2.bufaloweb.com/bufalo25/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="0000" tvg-chno="0000" tvg-logo="https://www.izzigo.tv/images/repository/766/10926766-POSTER-m.jpg" group-title="TV TEST", TEST
+#EXTVLCOPT:network-caching=1000
+https://s2.bufaloweb.com/bufalo26/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="0000" tvg-chno="0000" tvg-logo="https://www.izzigo.tv/images/repository/766/10926766-POSTER-m.jpg" group-title="TV TEST", NAT GEO
+#EXTVLCOPT:network-caching=1000
+https://s2.bufaloweb.com/bufalo29/tracks-v1a1/mono.ts.m3u8
+
+
+
+
+
+
 
 
 
