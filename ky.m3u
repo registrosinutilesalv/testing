@@ -337,7 +337,9 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="MasterChef 24/7" tvg-chno="0000" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/263fdb7/2147483647/strip/true/crop/601x478+0+0/resize/604x480!/format/webp/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F01%2Fbf%2Fd5291d104a2091433b3e6346a68b%2Fe-b-manos-ott-logo-mc-1920x1080-1.png" group-title="TV TEST", MasterChef 24/7
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/69f3bde44a6aa2a6ccaf1b38.m3u8
 
 
 
