@@ -1,5 +1,91 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://www.open-epg.com/files/mexico2.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
 
+
+#EXTINF:-1 tvg-id="I135.81622.schedulesdirect.org" tvg-name="DHE" tvg-chno="498" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1016572-8c.png" group-title="Cine", DHE
+https://cablered.iptvperu.tv:1936/cablered/dhe_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="I355.46442.schedulesdirect.org" tvg-name="FX ᴴᴰ" tvg-chno="209" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416547-8c.png" group-title="Entretenimiento", FX ᴴᴰ
+https://cablered.iptvperu.tv:1936/cablered/fx_new/playlist.m3u8
+
+TNT: https://cablered.iptvperu.tv:1936/cablered/tnt_new/playlist.m3u8
+
+SPACE: https://cablered.iptvperu.tv:1936/cablered/space_new/playlist.m3u8
+
+AMC: https://cablered.iptvperu.tv:1936/cablered/AMC_new/playlist.m3u8
+
+STAR Channel: https://cablered.iptvperu.tv:1936/cablered/starchannel_new/playlist.m3u8
+
+CineCanal: https://cablered.iptvperu.tv:1936/cablered/cinecanal_new/playlist.m3u8
+
+TCM: https://cablered.iptvperu.tv:1936/cablered/TCM/playlist.m3u8
+
+west: https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8
+
+Universal Channel: https://cablered.iptvperu.tv:1936/cablered/universalchannel_new/playlist.m3u8
+
+Golden Edge: https://cablered.iptvperu.tv:1936/cablered/goldenedge_new/playlist.m3u8
+
+Telemundo: https://cablered.iptvperu.tv:1936/cablered/telemundo_new/playlist.m3u8
+
+TL Novelas: https://cablered.iptvperu.tv:1936/cablered/tlnovelas_new/playlist.m3u8
+
+Az Corazón: https://cablered.iptvperu.tv:1936/cablered/azcorazon_new/playlist.m3u8
+
+Cartoon Network LA: https://cablered.iptvperu.tv:1936/cablered/cartoonnetwork_new/playlist.m3u8
+
+Discovery Kids LA: https://cablered.iptvperu.tv:1936/cablered/discoverykids_new/playlist.m3u8
+
+Disney Jr. LA: https://cablered.iptvperu.tv:1936/cablered/disneyjunior_new/playlist.m3u8
+
+Disney Channel LA: https://cablered.iptvperu.tv:1936/cablered/disneychannel_new/playlist.m3u8
+
+BitMe: https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
+
+Tooncast: https://cablered.iptvperu.tv:1936/Cablered/Tooncast/playlist.m3u8
+
+Cartoonito LA: https://cablered.iptvperu.tv:1936/cablered/Cartoonito/playlist.m3u8
+
+Adult Swim LA: https://cablered.iptvperu.tv:1936/cablered/adultswing_new/playlist.m3u8
+
+DM Kids TV: https://cablered.iptvperu.tv:1936/cablered/dmkidstv.stream/playlist.m3u8
+
+Zoomoo: https://cablered.iptvperu.tv:1936/cablered/zoomoo_new/playlist.m3u8
+
+HTV: https://cablered.iptvperu.tv:1936/cablered/HTV/playlist.m3u8
+
+BandaMax: https://cablered.iptvperu.tv:1936/cablered/bandamax_new/playlist.m3u8
+
+ESPN: https://cablered.iptvperu.tv:1936/cablered/espn_new/playlist.m3u8
+
+ESPN 2: https://cablered.iptvperu.tv:1936/cablered/espn2_new/playlist.m3u8
+
+ESPN 3: https://cablered.iptvperu.tv:1936/cablered/espn3_new/playlist.m3u8
+
+ESPN 4: https://cablered.iptvperu.tv:1936/cablered/espn4_new/playlist.m3u8
+
+ESPN 5: https://cablered.iptvperu.tv:1936/cablered/espn5_new/playlist.m3u8
+
+ESPN 6: https://cablered.iptvperu.tv:1936/cablered/espn6_new/playlist.m3u8
+
+ESPN 7: https://cablered.iptvperu.tv:1936/cablered/espn7_new/playlist.m3u8
+
+Food Network: https://cablered.iptvperu.tv:1936/cablered/foodnetwork_new/playlist.m3u8
+
+Home & Health: https://cablered.iptvperu.tv:1936/cablered/h&h_new/playlist.m3u8
+
+discoveryturbo: https://cablered.iptvperu.tv:1936/cablered/discoveryturbo_new/playlist.m3u8
+
+discoveryscience: https://cablered.iptvperu.tv:1936/cablered/discoveryscience_new/playlist.m3u8
+
+discoveryid: https://cablered.iptvperu.tv:1936/cablered/discoveryid_new/playlist.m3u8
+
+Nat Geo: https://cablered.iptvperu.tv:1936/cablered/natgeo_new/playlist.m3u8
+
+Animal Planet: https://cablered.iptvperu.tv:1936/cablered/animalplanet_new/playlist.m3u8
+
+Love Nature: https://cablered.iptvperu.tv:1936/cablered/lovenature_new/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="0000" tvg-chno="0000" tvg-logo="https://www.izzigo.tv/images/repository/766/10926766-POSTER-m.jpg" group-title="TV TEST", MUNDIAL 2
 #EXTVLCOPT:network-caching=1000
 https://s2.bufaloweb.com/bufalo10/tracks-v1a1/mono.ts.m3u8
