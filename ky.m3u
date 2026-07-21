@@ -7,9 +7,11 @@ https://cablered.iptvperu.tv:1936/cablered/dhe_new/playlist.m3u8
 #EXTINF:-1 tvg-id="I355.46442.schedulesdirect.org" tvg-name="FX ᴴᴰ" tvg-chno="209" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416547-8c.png" group-title="Entretenimiento", FX ᴴᴰ
 https://cablered.iptvperu.tv:1936/cablered/fx_new/playlist.m3u8
 
-TNT: https://cablered.iptvperu.tv:1936/cablered/tnt_new/playlist.m3u8
+#EXTINF:-1 tvg-id="I700.80807.schedulesdirect.org" tvg-name="TNT ᴴᴰ" tvg-chno="435" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1268006-8c.png" group-title="Cine", TNT ᴴᴰ
+https://cablered.iptvperu.tv:1936/cablered/tnt_new/playlist.m3u8
 
-SPACE: https://cablered.iptvperu.tv:1936/cablered/space_new/playlist.m3u8
+#EXTINF:-1 tvg-id="I583.60801.schedulesdirect.org" tvg-name="SPACE ᴴᴰ" tvg-chno="445" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425308-8c.png" group-title="Cine", SPACE ᴴᴰ
+https://cablered.iptvperu.tv:1936/cablered/space_new/playlist.m3u8
 
 AMC: https://cablered.iptvperu.tv:1936/cablered/AMC_new/playlist.m3u8
 
