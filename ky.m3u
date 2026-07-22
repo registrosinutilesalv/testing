@@ -94,9 +94,13 @@ https://cablered.iptvperu.tv:1936/cablered/animalplanet_new/playlist.m3u8
 #EXTINF:-1 tvg-id="I810.52745.schedulesdirect.org" tvg-name="Love Nature ᴴᴰ" tvg-chno="382" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1192456-8c.png" group-title="Mundo y Cultura", Love Nature ᴴᴰ
 https://cablered.iptvperu.tv:1936/cablered/lovenature_new/playlist.m3u8
 
-ESPN: https://cablered.iptvperu.tv:1936/cablered/espn_new/playlist.m3u8
+#EXTINF:-1 tvg-id="I287.19158.schedulesdirect.org" tvg-name="ESPN" tvg-chno="513" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/554661-8c.png" group-title="Deporte Total", ESPN
+https://cablered.iptvperu.tv:1936/cablered/espn_new/playlist.m3u8
 
-ESPN 2: https://cablered.iptvperu.tv:1936/cablered/espn2_new/playlist.m3u8
+#EXTINF:-1 tvg-id="I292.37747.schedulesdirect.org" tvg-name="ESPN 2" tvg-chno="514" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/554663-8c.png" group-title="Deporte Total", ESPN 2
+https://cablered.iptvperu.tv:1936/cablered/espn2_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="I295.79042.schedulesdirect.org" tvg-name="ESPN 3" tvg-chno="515" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425374-8c.png" group-title="Deporte Total", ESPN 3
 https://cablered.iptvperu.tv:1936/cablered/espn3_new/playlist.m3u8
 
 ESPN 4: https://cablered.iptvperu.tv:1936/cablered/espn4_new/playlist.m3u8
