@@ -13,7 +13,8 @@ https://cablered.iptvperu.tv:1936/cablered/tnt_new/playlist.m3u8
 #EXTINF:-1 tvg-id="I583.60801.schedulesdirect.org" tvg-name="SPACE ᴴᴰ" tvg-chno="445" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425308-8c.png" group-title="Cine", SPACE ᴴᴰ
 https://cablered.iptvperu.tv:1936/cablered/space_new/playlist.m3u8
 
-AMC: https://cablered.iptvperu.tv:1936/cablered/AMC_new/playlist.m3u8
+#EXTINF:-1 tvg-id="I25.90852.schedulesdirect.org" tvg-name="amc" tvg-chno="444" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505128-8c.png" group-title="Cine", amc
+https://cablered.iptvperu.tv:1936/cablered/AMC_new/playlist.m3u8
 
 STAR Channel: https://cablered.iptvperu.tv:1936/cablered/starchannel_new/playlist.m3u8
 
