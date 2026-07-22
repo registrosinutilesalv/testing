@@ -61,9 +61,11 @@ https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
 #EXTINF:-1 tvg-id="I711.63109.schedulesdirect.org" tvg-name="tooncast" tvg-chno="328" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425237-8c.png" group-title="Infantiles", tooncast
 https://cablered.iptvperu.tv:1936/Cablered/Tooncast/playlist.m3u8
 
-Cartoonito LA: https://cablered.iptvperu.tv:1936/cablered/Cartoonito/playlist.m3u8
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="CARTOONITO" tvg-chno="324" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/942888-8c.png" group-title="Infantiles", CARTOONITO
+https://cablered.iptvperu.tv:1936/cablered/Cartoonito/playlist.m3u8
 
-Adult Swim LA: https://cablered.iptvperu.tv:1936/cablered/adultswing_new/playlist.m3u8
+#EXTINF:-1 tvg-id="I17.16496.schedulesdirect.org" tvg-name="[adult swim]" tvg-chno="215" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1106736-8c.png" group-title="Entretenimiento", [adult swim]
+https://cablered.iptvperu.tv:1936/cablered/adultswing_new/playlist.m3u8
 
 DM Kids TV: https://cablered.iptvperu.tv:1936/cablered/dmkidstv.stream/playlist.m3u8
 
