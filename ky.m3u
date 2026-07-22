@@ -28,7 +28,8 @@ https://cablered.iptvperu.tv:1936/cablered/TCM/playlist.m3u8
 #EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="west" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", west
 https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8
 
-Universal Channel: https://cablered.iptvperu.tv:1936/cablered/universalchannel_new/playlist.m3u8
+#EXTINF:-1 tvg-id="I753.16799.schedulesdirect.org" tvg-name="UNIVERSAL TV" tvg-chno="207" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/422006-8c.png" group-title="Entretenimiento", UNIVERSAL TV
+https://cablered.iptvperu.tv:1936/cablered/universalchannel_new/playlist.m3u8
 
 Golden Edge: https://cablered.iptvperu.tv:1936/cablered/goldenedge_new/playlist.m3u8
 
