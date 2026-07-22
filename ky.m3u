@@ -31,13 +31,17 @@ https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8
 #EXTINF:-1 tvg-id="I753.16799.schedulesdirect.org" tvg-name="UNIVERSAL TV" tvg-chno="207" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/422006-8c.png" group-title="Entretenimiento", UNIVERSAL TV
 https://cablered.iptvperu.tv:1936/cablered/universalchannel_new/playlist.m3u8
 
-Golden Edge: https://cablered.iptvperu.tv:1936/cablered/goldenedge_new/playlist.m3u8
+#EXTINF:-1 tvg-id="I374.16423.schedulesdirect.org" tvg-name="GOLDEN EDGE" tvg-chno="484" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/543978-8c.png" group-title="Más canales", GOLDEN EDGE
+https://cablered.iptvperu.tv:1936/cablered/goldenedge_new/playlist.m3u8
 
-Telemundo: https://cablered.iptvperu.tv:1936/cablered/telemundo_new/playlist.m3u8
+#EXTINF:-1 tvg-id="I690.102862.schedulesdirect.org" tvg-name="TELEMUNDO INTERNACIONAL" tvg-chno="277" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416587-8c.png" group-title="Entretenimiento", TELEMUNDO INTERNACIONAL
+https://cablered.iptvperu.tv:1936/cablered/telemundo_new/playlist.m3u8
 
-TL Novelas: https://cablered.iptvperu.tv:1936/cablered/tlnovelas_new/playlist.m3u8
+#EXTINF:-1 tvg-id="I699.37232.schedulesdirect.org" tvg-name="tlnovelas" tvg-chno="822" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416583-8c.png" group-title="Más canales", tlnovelas 
+https://cablered.iptvperu.tv:1936/cablered/tlnovelas_new/playlist.m3u8
 
-Az Corazón: https://cablered.iptvperu.tv:1936/cablered/azcorazon_new/playlist.m3u8
+#EXTINF:-1 tvg-id="I202.61404.schedulesdirect.org" tvg-name="corazón" tvg-chno="250" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1083022-8c.png" group-title="Entretenimiento", corazón
+http://38.194.226.190:8000/play/a026/index.m3u8?hlshttps://cablered.iptvperu.tv:1936/cablered/azcorazon_new/playlist.m3u8
 
 Cartoon Network LA: https://cablered.iptvperu.tv:1936/cablered/cartoonnetwork_new/playlist.m3u8
 
@@ -66,8 +70,7 @@ BandaMax: https://cablered.iptvperu.tv:1936/cablered/bandamax_new/playlist.m3u8
 ESPN: https://cablered.iptvperu.tv:1936/cablered/espn_new/playlist.m3u8
 
 ESPN 2: https://cablered.iptvperu.tv:1936/cablered/espn2_new/playlist.m3u8
-
-ESPN 3: https://cablered.iptvperu.tv:1936/cablered/espn3_new/playlist.m3u8
+https://cablered.iptvperu.tv:1936/cablered/espn3_new/playlist.m3u8
 
 ESPN 4: https://cablered.iptvperu.tv:1936/cablered/espn4_new/playlist.m3u8
 
