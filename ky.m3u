@@ -103,20 +103,26 @@ https://cablered.iptvperu.tv:1936/cablered/espn2_new/playlist.m3u8
 #EXTINF:-1 tvg-id="I295.79042.schedulesdirect.org" tvg-name="ESPN 3" tvg-chno="515" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425374-8c.png" group-title="Deporte Total", ESPN 3
 https://cablered.iptvperu.tv:1936/cablered/espn3_new/playlist.m3u8
 
-ESPN 4: https://cablered.iptvperu.tv:1936/cablered/espn4_new/playlist.m3u8
+#EXTINF:-1 tvg-id="I296.121144.schedulesdirect.org" tvg-name="ESPN 4" tvg-chno="516" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1124651-8c.png" group-title="Deporte Total", ESPN 4
+https://cablered.iptvperu.tv:1936/cablered/espn4_new/playlist.m3u8
 
-ESPN 5: https://cablered.iptvperu.tv:1936/cablered/espn5_new/playlist.m3u8
+#EXTINF:-1 tvg-id="I287.19158.schedulesdirect.org" tvg-name="ESPN" tvg-chno="513" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/554661-8c.png" group-title="Deporte Total", ESPN 5
+https://cablered.iptvperu.tv:1936/cablered/espn5_new/playlist.m3u8
 
-ESPN 6: https://cablered.iptvperu.tv:1936/cablered/espn6_new/playlist.m3u8
+#EXTINF:-1 tvg-id="I287.19158.schedulesdirect.org" tvg-name="ESPN" tvg-chno="513" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/554661-8c.png" group-title="Deporte Total", ESPN 6
+https://cablered.iptvperu.tv:1936/cablered/espn6_new/playlist.m3u8
 
-ESPN 7: https://cablered.iptvperu.tv:1936/cablered/espn7_new/playlist.m3u8
+#EXTINF:-1 tvg-id="I287.19158.schedulesdirect.org" tvg-name="ESPN" tvg-chno="513" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/554661-8c.png" group-title="Deporte Total", ESPN 7
+https://cablered.iptvperu.tv:1936/cablered/espn7_new/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="west" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", west
 https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8
 
-DM Kids TV: https://cablered.iptvperu.tv:1936/cablered/dmkidstv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="west" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", DM Kids TV
+https://cablered.iptvperu.tv:1936/cablered/dmkidstv.stream/playlist.m3u8
 
-Zoomoo: https://cablezoomoo_new/playlist.m3u8
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="west" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", Zoomoo
+https://cablezoomoo_new/playlist.m3u8
 
 
 
