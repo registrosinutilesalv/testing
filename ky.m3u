@@ -43,17 +43,23 @@ https://cablered.iptvperu.tv:1936/cablered/tlnovelas_new/playlist.m3u8
 #EXTINF:-1 tvg-id="I202.61404.schedulesdirect.org" tvg-name="corazón" tvg-chno="250" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1083022-8c.png" group-title="Entretenimiento", corazón
 http://38.194.226.190:8000/play/a026/index.m3u8?hlshttps://cablered.iptvperu.tv:1936/cablered/azcorazon_new/playlist.m3u8
 
-Cartoon Network LA: https://cablered.iptvperu.tv:1936/cablered/cartoonnetwork_new/playlist.m3u8
+#EXTINF:-1 tvg-id="I147.101735.schedulesdirect.org" tvg-name="CARTOON NETWORK" tvg-chno="320" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416605-8c.png" group-title="Infantiles", CARTOON NETWORK
+https://cablered.iptvperu.tv:1936/cablered/cartoonnetwork_new/playlist.m3u8
 
-Discovery Kids LA: https://cablered.iptvperu.tv:1936/cablered/discoverykids_new/playlist.m3u8
+#EXTINF:-1 tvg-id="I221.45955.schedulesdirect.org" tvg-name="discovery kids" tvg-chno="303" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/617489-8c.png" group-title="Infantiles", discovery kids
+https://cablered.iptvperu.tv:1936/cablered/discoverykids_new/playlist.m3u8
 
-Disney Jr. LA: https://cablered.iptvperu.tv:1936/cablered/disneyjunior_new/playlist.m3u8
+#EXTINF:-1 tvg-id="I229.79589.schedulesdirect.org" tvg-name="Disney Junior" tvg-chno="308" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1151365-8c.png" group-title="Infantiles", Disney Junior
+https://cablered.iptvperu.tv:1936/cablered/disneyjunior_new/playlist.m3u8
 
-Disney Channel LA: https://cablered.iptvperu.tv:1936/cablered/disneychannel_new/playlist.m3u8
+#EXTINF:-1 tvg-id="I230.19234.schedulesdirect.org" tvg-name="Disney CHANNEL" tvg-chno="312" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425229-8c.png" group-title="Infantiles", Disney CHANNEL
+https://cablered.iptvperu.tv:1936/cablered/disneychannel_new/playlist.m3u8
 
-BitMe: https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
+#EXTINF:-1 tvg-id="I112.72801.schedulesdirect.org" tvg-name="bitMe" tvg-chno="827" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416611-8c.png" group-title="Más canales", bitMe
+https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
 
-Tooncast: https://cablered.iptvperu.tv:1936/Cablered/Tooncast/playlist.m3u8
+#EXTINF:-1 tvg-id="I711.63109.schedulesdirect.org" tvg-name="tooncast" tvg-chno="328" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425237-8c.png" group-title="Infantiles", tooncast
+https://cablered.iptvperu.tv:1936/Cablered/Tooncast/playlist.m3u8
 
 Cartoonito LA: https://cablered.iptvperu.tv:1936/cablered/Cartoonito/playlist.m3u8
 
@@ -61,7 +67,7 @@ Adult Swim LA: https://cablered.iptvperu.tv:1936/cablered/adultswing_new/playlis
 
 DM Kids TV: https://cablered.iptvperu.tv:1936/cablered/dmkidstv.stream/playlist.m3u8
 
-Zoomoo: https://cablered.iptvperu.tv:1936/cablered/zoomoo_new/playlist.m3u8
+Zoomoo: https://cablezoomoo_new/playlist.m3u8
 
 HTV: https://cablered.iptvperu.tv:1936/cablered/HTV/playlist.m3u8
 
