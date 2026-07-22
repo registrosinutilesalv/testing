@@ -64,25 +64,35 @@ https://cablered.iptvperu.tv:1936/cablered/Cartoonito/playlist.m3u8
 #EXTINF:-1 tvg-id="I17.16496.schedulesdirect.org" tvg-name="[adult swim]" tvg-chno="215" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1106736-8c.png" group-title="Entretenimiento", [adult swim]
 https://cablered.iptvperu.tv:1936/cablered/adultswing_new/playlist.m3u8
 
-HTV: https://cablered.iptvperu.tv:1936/cablered/HTV/playlist.m3u8
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="hTV" tvg-chno="736" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425471-8c.png" group-title="Música", hTV
+https://cablered.iptvperu.tv:1936/cablered/HTV/playlist.m3u8
 
-BandaMax: https://cablered.iptvperu.tv:1936/cablered/bandamax_new/playlist.m3u8
+#EXTINF:-1 tvg-id="I108.18101.schedulesdirect.org" tvg-name="BANDAMAX" tvg-chno="828" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/522531-8c.png" group-title="Más canales", BANDAMAX
+https://cablered.iptvperu.tv:1936/cablered/bandamax_new/playlist.m3u8
 
-Food Network: https://cablered.iptvperu.tv:1936/cablered/foodnetwork_new/playlist.m3u8
+#EXTINF:-1 tvg-id="I329.91919.schedulesdirect.org" tvg-name="food network" tvg-chno="226" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425217-8c.png" group-title="Entretenimiento", food network
+https://cablered.iptvperu.tv:1936/cablered/foodnetwork_new/playlist.m3u8
 
-Home & Health: https://cablered.iptvperu.tv:1936/cablered/h&h_new/playlist.m3u8
+#EXTINF:-1 tvg-id="I216.97928.schedulesdirect.org" tvg-name="Discovery h&h" tvg-chno="374" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1305073-8c.png" group-title="Mundo y Cultura", Discovery h&h
+https://cablered.iptvperu.tv:1936/cablered/h&h_new/playlist.m3u8
 
-discoveryturbo: https://cablered.iptvperu.tv:1936/cablered/discoveryturbo_new/playlist.m3u8
+#EXTINF:-1 tvg-id="I226.107611.schedulesdirect.org" tvg-name="Discovery turbo ᴴᴰ" tvg-chno="364" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425251-8c.png" group-title="Mundo y Cultura", Discovery turbo ᴴᴰ
+https://cablered.iptvperu.tv:1936/cablered/discoveryturbo_new/playlist.m3u8
 
-discoveryscience: https://cablered.iptvperu.tv:1936/cablered/discoveryscience_new/playlist.m3u8
+#EXTINF:-1 tvg-id="I223.110960.schedulesdirect.org" tvg-name="Discovery science" tvg-chno="381" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425261-8c.png" group-title="Mundo y Cultura", Discovery science
+https://cablered.iptvperu.tv:1936/cablered/discoveryscience_new/playlist.m3u8
 
-discoveryid: https://cablered.iptvperu.tv:1936/cablered/discoveryid_new/playlist.m3u8
+#EXTINF:-1 tvg-id="I430.25793.schedulesdirect.org" tvg-name="Discovery ID" tvg-chno="228" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518573-8c.png" group-title="Entretenimiento", Discovery ID
+https://cablered.iptvperu.tv:1936/cablered/discoveryid_new/playlist.m3u8
 
-Nat Geo: https://cablered.iptvperu.tv:1936/cablered/natgeo_new/playlist.m3u8
+#EXTINF:-1 tvg-id="I503.88533.schedulesdirect.org" tvg-name="NATIONAL GEOGRAPHIC ᴴᴰ" tvg-chno="354" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425245-8c.png" group-title="Mundo y Cultura", NATIONAL GEOGRAPHIC ᴴᴰ
+https://cablered.iptvperu.tv:1936/cablered/natgeo_new/playlist.m3u8
 
-Animal Planet: https://cablered.iptvperu.tv:1936/cablered/animalplanet_new/playlist.m3u8
+#EXTINF:-1 tvg-id="I28.18649.schedulesdirect.org" tvg-name="animal planet ᴴᴰ" tvg-chno="361" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425249-8c.png" group-title="Mundo y Cultura", animal planet ᴴᴰ
+https://cablered.iptvperu.tv:1936/cablered/animalplanet_new/playlist.m3u8
 
-Love Nature: https://cablered.iptvperu.tv:1936/cablered/lovenature_new/playlist.m3u8
+#EXTINF:-1 tvg-id="I810.52745.schedulesdirect.org" tvg-name="Love Nature ᴴᴰ" tvg-chno="382" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1192456-8c.png" group-title="Mundo y Cultura", Love Nature ᴴᴰ
+https://cablered.iptvperu.tv:1936/cablered/lovenature_new/playlist.m3u8
 
 ESPN: https://cablered.iptvperu.tv:1936/cablered/espn_new/playlist.m3u8
 
