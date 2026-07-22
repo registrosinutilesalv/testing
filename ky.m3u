@@ -25,9 +25,6 @@ https://cablered.iptvperu.tv:1936/cablered/cinecanal_new/playlist.m3u8
 #EXTINF:-1 tvg-id="I681.19246.schedulesdirect.org" tvg-name="TCM" tvg-chno="496" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416655-8c.png" group-title="Cine", TCM
 https://cablered.iptvperu.tv:1936/cablered/TCM/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="west" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", west
-https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8
-
 #EXTINF:-1 tvg-id="I753.16799.schedulesdirect.org" tvg-name="UNIVERSAL TV" tvg-chno="207" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/422006-8c.png" group-title="Entretenimiento", UNIVERSAL TV
 https://cablered.iptvperu.tv:1936/cablered/universalchannel_new/playlist.m3u8
 
@@ -67,26 +64,9 @@ https://cablered.iptvperu.tv:1936/cablered/Cartoonito/playlist.m3u8
 #EXTINF:-1 tvg-id="I17.16496.schedulesdirect.org" tvg-name="[adult swim]" tvg-chno="215" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1106736-8c.png" group-title="Entretenimiento", [adult swim]
 https://cablered.iptvperu.tv:1936/cablered/adultswing_new/playlist.m3u8
 
-DM Kids TV: https://cablered.iptvperu.tv:1936/cablered/dmkidstv.stream/playlist.m3u8
-
-Zoomoo: https://cablezoomoo_new/playlist.m3u8
-
 HTV: https://cablered.iptvperu.tv:1936/cablered/HTV/playlist.m3u8
 
 BandaMax: https://cablered.iptvperu.tv:1936/cablered/bandamax_new/playlist.m3u8
-
-ESPN: https://cablered.iptvperu.tv:1936/cablered/espn_new/playlist.m3u8
-
-ESPN 2: https://cablered.iptvperu.tv:1936/cablered/espn2_new/playlist.m3u8
-https://cablered.iptvperu.tv:1936/cablered/espn3_new/playlist.m3u8
-
-ESPN 4: https://cablered.iptvperu.tv:1936/cablered/espn4_new/playlist.m3u8
-
-ESPN 5: https://cablered.iptvperu.tv:1936/cablered/espn5_new/playlist.m3u8
-
-ESPN 6: https://cablered.iptvperu.tv:1936/cablered/espn6_new/playlist.m3u8
-
-ESPN 7: https://cablered.iptvperu.tv:1936/cablered/espn7_new/playlist.m3u8
 
 Food Network: https://cablered.iptvperu.tv:1936/cablered/foodnetwork_new/playlist.m3u8
 
@@ -103,6 +83,28 @@ Nat Geo: https://cablered.iptvperu.tv:1936/cablered/natgeo_new/playlist.m3u8
 Animal Planet: https://cablered.iptvperu.tv:1936/cablered/animalplanet_new/playlist.m3u8
 
 Love Nature: https://cablered.iptvperu.tv:1936/cablered/lovenature_new/playlist.m3u8
+
+ESPN: https://cablered.iptvperu.tv:1936/cablered/espn_new/playlist.m3u8
+
+ESPN 2: https://cablered.iptvperu.tv:1936/cablered/espn2_new/playlist.m3u8
+https://cablered.iptvperu.tv:1936/cablered/espn3_new/playlist.m3u8
+
+ESPN 4: https://cablered.iptvperu.tv:1936/cablered/espn4_new/playlist.m3u8
+
+ESPN 5: https://cablered.iptvperu.tv:1936/cablered/espn5_new/playlist.m3u8
+
+ESPN 6: https://cablered.iptvperu.tv:1936/cablered/espn6_new/playlist.m3u8
+
+ESPN 7: https://cablered.iptvperu.tv:1936/cablered/espn7_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="west" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", west
+https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8
+
+DM Kids TV: https://cablered.iptvperu.tv:1936/cablered/dmkidstv.stream/playlist.m3u8
+
+Zoomoo: https://cablezoomoo_new/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="0000" tvg-chno="0000" tvg-logo="https://www.izzigo.tv/images/repository/766/10926766-POSTER-m.jpg" group-title="TV TEST", MUNDIAL 2
