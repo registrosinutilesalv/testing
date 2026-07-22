@@ -16,13 +16,17 @@ https://cablered.iptvperu.tv:1936/cablered/space_new/playlist.m3u8
 #EXTINF:-1 tvg-id="I25.90852.schedulesdirect.org" tvg-name="amc" tvg-chno="444" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/505128-8c.png" group-title="Cine", amc
 https://cablered.iptvperu.tv:1936/cablered/AMC_new/playlist.m3u8
 
-STAR Channel: https://cablered.iptvperu.tv:1936/cablered/starchannel_new/playlist.m3u8
+#EXTINF:-1 tvg-id="I585.88534.schedulesdirect.org" tvg-name="STAR CHANNEL" tvg-chno="201" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/582767-8c.png" group-title="Entretenimiento", STAR CHANNEL
+https://cablered.iptvperu.tv:1936/cablered/starchannel_new/playlist.m3u8
 
-CineCanal: https://cablered.iptvperu.tv:1936/cablered/cinecanal_new/playlist.m3u8
+#EXTINF:-1 tvg-id="I163.70424.schedulesdirect.org" tvg-name="CINECANAL ᴴᴰ" tvg-chno="430" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425300-8c.png" group-title="Cine", CINECANAL ᴴᴰ
+https://cablered.iptvperu.tv:1936/cablered/cinecanal_new/playlist.m3u8
 
-TCM: https://cablered.iptvperu.tv:1936/cablered/TCM/playlist.m3u8
+#EXTINF:-1 tvg-id="I681.19246.schedulesdirect.org" tvg-name="TCM" tvg-chno="496" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416655-8c.png" group-title="Cine", TCM
+https://cablered.iptvperu.tv:1936/cablered/TCM/playlist.m3u8
 
-west: https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8
+#EXTINF:-1 tvg-id="I409.34887.schedulesdirect.org" tvg-name="west" tvg-logo="https://www.izzigo.tv/images/repository/992/256992-LOGO-m.png" group-title="Audio", west
+https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8
 
 Universal Channel: https://cablered.iptvperu.tv:1936/cablered/universalchannel_new/playlist.m3u8
 
